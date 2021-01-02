@@ -1,0 +1,1241 @@
+= Gestion et Organisation des Entreprise: Support du Cours
+Tarek Boutefara <t_boutefara@univ-jijel.dz>
+v0.1, 2021-01-01
+:imagesdir: ./images/
+:sectnums:
+:toc: 
+
+== Organiser
+
+=== Définitions
+
+==== Larousse (définition du dictionnaire) :
+
+"Organiser c'est donner aux parties d'un corps la disposition nécessaire 
+pour les fonctions auxquelles il est destiné".
+
+==== H. Fayol (vision managériale) :
+
+"Organiser une entreprise c'est la munir de tout ce qui est utile à son 
+fonctionnement : matériaux, capitaux, personnel par l'action des 
+5 principes de management prévoir, organiser, commander, coordonner, 
+contrôler".
+
+==== E. Morin (les relations humaines) :
+
+"L'organisation est l'agencement de relations entre composants ou 
+individus qui produit une unité complexe ou système, dotée de qualités 
+inconnues au niveau des composants ou individus. L'organisation lie de 
+façon inter relationnelle des éléments ou événements ou individus divers 
+qui dès lors deviennent les composants d'un tout. Elle assure solidarité 
+et solidité, donc assure au système une certaine possibilité de durer 
+en dépit de perturbations aléatoires".
+
+==== T. Parsons (sciences sociales) :
+
+"Les organisations sont des unités sociales (ou groupements humains) 
+délibérément construites et reconstruites pour poursuivre des buts spécifiques".
+
+==== H. Mintzberg (science des organisations) :
+
+"Toute activité humaine organisée doit répondre à deux exigences 
+fondamentales et contradictoires : la division du travail entre les 
+différentes tâches à accomplir et la coordination des tâches pour 
+l'accomplissement du travail".
+
+==== J. Gerbier (vision systémique) :
+
+"Organiser c'est concevoir et mettre en place des systèmes, des 
+structures, des méthodes, des procédures plus ou moins permanentes, 
+à la fois nécessaires et suffisants, pour atteindre dans des conditions 
+optimales, un but explicite, réputé accessible et ce à partir des données 
+qualitatives et quantitatives et compte tenu des contraintes voulues ou 
+subies".
+
+=== Buts et moyens de l'organisation
+
+Selon Gerbier, toute action d'organisation vise l'un des objectifs 
+suivants :
+
+. Améliorer la productivité
+. Améliorer la qualité des biens et des services
+. Maîtriser les délais
+. Améliorer la sécurité des biens et des personnes
+. Améliorer la qualité des informations
+. Améliorer la circulation de l’information et des réseaux de communication
+. Améliorer la qualité de la vie au travail
+
+Le schéma suivant montre les ressources utilisées pendant l'organisation 
+et les finalités à atteindre :
+
+.Ressources et finalités de l'organisation
+image::Ch_01_Organiser.jpeg[]
+
+== Les Entreprises
+
+=== Définitions
+
+==== CNRTL (définition du dictionnaire) footnote:[Centre National de Ressources Textuelles et Lexicales (http://www.cnrtl.fr)]
+
+(du verbe entreprendre) Unité économique combinant des capitaux et une 
+main-d'œuvre salariée en vue de la production de biens, ou de leur 
+commercialisation.
+
+==== Larousse (définition du dictionnaire) 
+Affaire agricole, commerciale ou industrielle, dirigée par une personne 
+morale ou physique, privée, en vue de produire des biens ou services 
+pour le marché; unité économique de production; firme.
+
+=== Approche économique 
+
+==== Définition :
+
+Une entreprise est une unité de production de biens (produits) ou de 
+services. Les produits ou services sont destinés soit aux consommateurs 
+directs ou aux autres entreprises.
+
+Les consommateurs directs peuvent être des individus, mais dans le cas 
+de grandes entreprises, il s'agit d'entreprises de revente, des 
+distributeurs, etc.
+
+==== Différenciation :
+
+Différencier un produit ou un service consiste à le démarquer de ceux de 
+la concurrence sur la base des quatre « P », qui sont :
+
+===== Produit
+* La différenciation par le produit considère ses caractéristiques 
+intrinsèques, à savoir sa composition, sa qualité, son aspect marchand 
+(garanties, assistances, ...).
+
+===== Prix
+
+* Il existe deux stratégies en matière de différenciation par le prix :
+** soit une stratégie d'écrémage qui consiste à fixer les prix plutôt 
+plus élevés que le concurrent, 
+** soit une stratégie de pénétration de marché qui consiste à fixer 
+les prix plutôt moins élevés que le concurrent.
+* Le prix de vente d'un produit est déterminé par quatre facteurs :
+** Coût de revient.
+** Concurrence.
+** Demande (clients), on prend en compte la notion de prix psychologique.
+** Réglementation en matière de fixation de prix (__ex:__ dans le 
+secteur pétrolier en période de crise).
+
+===== Place (Distribution)
+
+* Généralement un produit haut de gamme vendu cher est destiné à un 
+réseau de distribution sélectif. Il importe de distinguer canal de 
+distribution, circuit de distribution et réseau de distribution. 
+** Un canal de distribution, c'est la voie d'acheminement d'un produit entre deux intermédiaires dans un circuit de distribution. 
+** Un circuit de distribution est l'ensemble des canaux de distribution. 
+** Un réseau de distribution est l'ensemble des circuits de distribution.
+
+===== Publicité (Promotion)
+
+* Ces procédés concernent la communication autour du produit. Un gros 
+budget de communication au lancement d'un produit permet de se démarquer 
+de la concurrence.
+** La publicité consiste à attirer les consommateurs (ou prospects) 
+vers le produit (stratégie "pull"). 
+** La promotion consiste à pousser le produit vers le consommateur 
+(stratégie "push").
+
+=== Approche Sociologique
+
+L'approche sociale de définition d'une entreprise met l'accent sur les 
+acteurs intervenant dans l'entreprise (vue selon l'approche économique). 
+On distingue :
+==== Les apporteurs de capitaux (actionnaires) : 
+
+Personnes qui contribuent 
+par leurs moyens financiers au lancement et subsistance de l'entreprise
+
+* but : réaliser des gains et les augmenter
+* source de pouvoir : capital
+* stratégie : investissement
+
+==== Les dirigeants : 
+
+Personnes qui gèrent l'entreprise et le personnel, en 
+contact direct avec les salariés.
+
+* but : maximiser le profit et la performance de l'entreprise
+* source de pouvoir : modèle de gestion
+
+==== Les salariés (cadres et employés): 
+
+Personnes qui produisent les biens 
+ou fournissent les services.
+
+* but : garantir leur emploi
+* source de pouvoir : savoir-faire
+
+=== Approche systémique
+
+Un système est un ensemble d'éléments qui agissent en interaction 
+dynamique pour atteindre un objectif. Un système fermé est un système 
+qui ne présente aucune interaction avec son environnement. Un système 
+ouvert est un système qui présente des interactions avec son 
+environnement.
+
+En prenant l'entreprise comme un système ouvert, nous pouvons préciser 
+ses :
+
+==== Eléments :
+
+L'entreprise doit garantir plusieurs fonctions pour atteindre ses 
+objectifs. Ces fonctions sont réalisées, dans l'entreprise, par des 
+structures internes indépendantes mais en interaction dynamique. Parmi 
+ces fonctions :
+
+* Fonction commerciale,
+* Fonction technique,
+* Fonction comptable et financière,
+* Fonction ressources humaines.
+
+==== Objectif : 
+
+L'entreprise vise, de manière générale, le profit. Il peut être 
+défini par la valeur ajoutée qui reste dans l'entreprise. Pour survivre, 
+l'entreprise doit dégager un certain niveau de profit et le consacrer 
+pour financer sa croissance.
+
+==== Environnement :
+
+L'environnement de l'entreprise est constitué de plusieurs 
+composantes de nature très diversifiée :
+
+* Economique,
+* Sociale,
+* Juridique,
+* Politique,
+* Technologique,
+* etc.
+
+=== Classification des entreprises
+
+Plusieurs classifications d'entreprises sont proposées selon le critère 
+de classification choisi :
+
+==== Selon le domaine d'activité
+
+On distingue 3 types d'entreprises
+
+* **Secteur primaire :** concerne les activités d'extraction des 
+ressources de la terre. Les quatre industries de ce secteur sont : 
+l'agriculture, la pêche, l'exploitation forestière et l'exploitation 
+minière. Exemple : Sonatrach
+* **Secteur secondaire :** concerne les activités de transformation des 
+matières premières en produits finis. On trouve ces activités dans les 
+firmes (entreprises industrielles). 
+* **Secteur tertiaire :** concerne les activités de production de 
+services (banques, assurances,...).
+
+==== Selon le statut juridique
+
+Selon cette classification, on distingue :
+
+* **Les entreprises fondées par une personne :** on distingue encore :
+** les entreprises individuelles : elles sont fondées et gérées par une
+seule personne. Le capital de l'entreprise est le patrimoine de la 
+personne. Cette dernière est la seule responsable de la perte ou 
+bénéfices de l'entreprise.
+** les EURL : il s'agit d'Entreprises Unipersonnelles à responsabilités 
+limitées. L'EURL permet de distinguer le patrimoine du fondateur de 
+celui ce l'entreprise. Cette dernière est considérée comme une personne 
+morale.
+* **Les entreprises fondées par plusieurs personnes :** (sociétés) On 
+parle de la notion de société lorsqu'il s'agit d'un contrat entre deux 
+personnes ou plus (appelés associés). Chaque associé contribue par un 
+apport (financier, machines, etc.) Selon les responsabilités des 
+associés, surtout des impôts et dettes, on distingue encore :
+** les sociétés de personnes : appelées SNC (ou sociétés au nom 
+collectif). Dans ce cas, chaque associé est responsable des dettes de 
+l'entreprise selon son apport. Aussi, le bénéfice de chaque associé est 
+imposable séparément.
+** les sociétés de capitaux : dans ce cas, le capital de l'entreprise 
+est composé d'actions. Les personnes qui fondent l'entreprise sont 
+appelées actionnaires. La responsabilité de chaque actionnaire ressemble 
+à celle de la seule personne d'une EURL.
+
+==== Selon la dimension
+
+* **Effectif :** selon l'UNDEST (Union nationale interprofessionnelle 
+pour l'emploi dans l'industrie et le commerce), on distingue :
+** TPE (microentreprise ou très petite entreprise) : effectif inférieur 
+à 10 salariés.
+** PE (petite entreprise) : effectif compris entre 10 et 49 salariés.
+** ME (moyenne entreprise) : effectif compris entre 50 et 199 salariés.
+** GME (grande et moyenne entreprise) : effectif compris entre 200 et 
+499 salariés.
+** GE (grande entreprise) : effectif supérieur ou égal à 500 salariés.
+* Selon le chiffre d'affaires annuel (PME, Grandes entreprises et 
+Groupes commerciaux).
+* La valeur ajoutée : elle représente la différence entre le prix de 
+vente d’un produit et la valeur totale des dépenses qu’elle a engagée 
+pour se procurer les biens et services qu’une entreprise donnée 
+transforme.
+* La surface de vente :
+** De 120  à 400 mètres carrés : Supérette.
+** De 401 à 2500 mètres carrés : Supermarché.
+** A partir de 2501 mètres carrés : Hypermarché.
+
+== Les écoles de pensée en sciences d'organisation
+
+=== Dans ce chapitre
+
+Pour mieux comprendre les différentes structures et facteurs pris en 
+compte, nous devons comprendre les différentes écoles de pensée apparues 
+en sciences d'organisation. D'un point de vue historique, la théorie 
+des organisations n'a vu le jour qu'au début du 20ème siècle malgré que 
+le principe d'organisation est présent dans les différents témoins 
+archéologiques depuis la période "Aurignacienne" 35000 à 20000 av. JC. 
+Il fallait attendre la révolution industrielle et l'apparition de la 
+notion moderne de l'entreprise, qui représente aujourd'hui un élément 
+central dans la vie économique, pour commencer à aborder la 
+problématique d'organisation par une vision scientifique. 
+
+=== Ecole Classique
+
+L'école classique représente les premières tentatives menées par des 
+industriels et des ingénieurs pour analyser de manière scientifique 
+l'organisation et de rationaliser son fonctionnement. Ce besoin est 
+apparu au début de 20ème siècle avec l'accélération de 
+l'industrialisation et l'apparition de la "grande entreprise" dans 
+laquelle le capital (l'acteur "actionnaires") et le pouvoir 
+organisationnel (les dirigeants) sont dissociés. 
+
+Cette école a été fondée par les travaux de plusieurs auteurs tels que 
+Taylor (le père de la théorie d'organisation), Fayol et Weber.
+
+==== Hypothèses
+
+* Il existe un modèle idéal d'organisation (The One Best Way),
+* L'efficacité repose sur une division des tâches ("le travail en miettes),
+* L'individu au travail ne répond qu'à des tâches d'exécution et qu'il 
+ne peut faire preuve d'initiative,
+* Le fonctionnement est régulé et coordonné par la hiérarchie.
+
+==== Différentes propositions
+
+===== Taylor et l'OST (Organisation Scientifique du Travail) (1911)
+
+Taylor part du principe que l'homme n'aime pas le travail et n'accepte 
+que la motivation salariale. Il tente d'améliorer la productivité et 
+d'atteindre un fonctionnement optimal en appliquant :
+
+. Une spécialisation maximale : la spécialisation améliore le rendement,
+. La parcellisation : l'analyse scientifique des temps, des gestes, etc.,
+. La séparation des tâches de conception et d'exécution,
+. L'individualisation
+
+L'OST consiste en quatre points essentiels :
+
+. La division horizontale du travail : où chaque tâche est soumise à une 
+étude scientifique pour déterminer la meilleure manière de l'exécuter.
+. La sélection scientifique : qui consiste à choisir la meilleure 
+personne pour exécuter une tâche
+. La division verticale du travail : où les dirigeants se chargent de 
+donner des directives et les exécutants à les exécuter.
+. Le contrôle de la bonne exécution du travail qui est la responsabilité 
+de la hiérarchie.
+
+===== Ford et le travail à la chaîne (1913)
+
+En 1913, Ford a commencé à appliquer les principes de l'OST dans ses 
+usines et a abouti à l'innovation du principe du travail à la chaîne 
+(spécialisation du travail et parcellisation des tâches) et à atteindre 
+un exploit social (les employés de Ford étaient les mieux payés aux 
+Etats Unies). A cette époque, les machines ne réalisent que des 
+opérations simples : l'homme est irremplaçable pour les manipulations 
+complexes. La chaîne contraint ainsi l'homme à adopter le rythme de 
+la machine. 
+
+===== Fayol et les principes d'administration
+
+Fayol, de sa part, s'était intéressé à l'administration et a essayé de 
+répondre à la question : Qu'est ce qu'administrer ? En posant cette 
+question, Fayol a enrichi la théorie de l'organisation en visant, non 
+pas le rendement de l'employé seulement comme le faisait Taylor, mais 
+le bon fonctionnement global de l'entreprise. Il insistait sur deux 
+principes :
+* L'unité de commandement : "Pour une action quelconque, un agent ne 
+doit recevoir des ordres que d'un seul chef.", ainsi, la hiérarchie doit 
+être schématisable en arbre.
+* L'adminsnitration est associée à la responsabilité (récompense / 
+pénalité).
+
+Fayol proposait les cinq tâches du dirigeants (devenus par la suite les cinq actions du management) :
+
+* Prévoir,
+* Organiser,
+* Commander,
+* Coordonner,
+* Contrôler.
+
+Il a proposé, aussi, les six fonctions de l'entreprise :
+
+* Fonction technique de production,
+* Fonction commerciale,
+* Fonction financière,
+* Fonction de sécurité,
+* Fonction comptable,
+* Fonction administrative.
+
+Taylor a défini les 14 principes d'adminsitration :
+
+* Division du travail,
+* Autorité responsabilité
+* Discipline,
+* Unité de commandement,
+* Unité de direction,
+* Recherche de l'intérêt général,
+* Rémunération,
+* Décentralisation,
+* Hiérarchie,
+* Ordre
+* Equité
+* Stabilité du personnel,
+* Initiativie,
+* Union du personnel.
+
+==== Apports de l'école classique
+
+Le plus grand apport de l'école classique est le fondement de la science 
+et de la théorie de l'organisation.  Cette école a pu remplacer la 
+gestion mutuelle et intuitive par une organisation scientifique.
+
+==== Inconvénients de l'école classique
+
+La vision de l'école classique présente plusieurs lacunes dont :
+
+* Traiter les employés comme des machines : les employés sont vus comme 
+des éléments organisationnels et économiques seulement,
+* L'absence de la flexibilité dans les procédures administratives,
+* L'excès de spécialisation et de division des tâches : diminution de 
+la productivité des employés (déshumanisation du travail),
+* Ignorer les aspects humains tels que les conflits sociaux, les 
+comportements, etc.
+
+=== Ecole des Relations Humains
+
+L'école des Relations Humaines représentent une évolution de la théorie 
+de l'organisation qui vise, principalement, de remédier aux lacunes de 
+l'école classique. En effet, la théorie de l'organisation est devenue 
+le centre d'intérêt de plusieurs chercheurs qui ne sont pas des 
+ingénieurs ou des industriels. Cette diversification a vite apporté 
+son enrichissement à cette théorie.
+
+==== Les expériences d'Elton Mayo
+
+Les travaux qui ont donné naissance à l'école des relations humaines 
+sont ceux réalisés par Elton Mayo de 1927 à 1932 à l'usine de la 
+Western Electric à Hawthorne. Cette usine a constaté qu'il y a une 
+amélioration de la productivité qui résultait de l'amélioration de 
+l'éclairage, ainsi, elle a fait appel à des chercheurs, et à leur tête 
+Elton Mayo, pour comprendre l'influence du climat psychologique sur le 
+rendement des employés.
+
+Mayo modifia les conditions de travail de six ouvriers dans un atelier 
+(temps de repos, horaires de travail, aménagement du poste de travail, 
+etc.) pour détecter les effets de ces changements sur le rendement des 
+employés.
+
+A la fin de ces expériences, Mayo a affirmé que :
+
+__"Les individus qui constituent un atelier au travail ne sont pas, 
+purement et simplement, des individus ; ils forment un groupe au sein 
+duquel ils ont développé des habitudes de relations entre eux, avec 
+leurs supérieurs, avec leur travail, avec les règlements de 
+l'entreprise.
+
+Le désir d’être bien avec ses collègues de travail, ce que l’on appelle 
+l’instinct humain d’association, l’emporte facilement sur le simple 
+intérêt individuel et la logique des raisonnements sur lesquels tant 
+de faux principes de direction sont fondés."__
+
+==== Hypothèse
+
+L'hypothèse principale de l'école des Relations Humaines peut être 
+résumée comme suit :
+
+__Il existe un lien solide entre la productivité et les conditions de 
+travail, les sentiments des travailleurs, la formation des groupes et 
+des relations que les employés entretiennent entre eux et avec les 
+techniciens et les chefs.__
+
+==== Principes
+
+* Construction des relations humaines basées sur la confiance,
+* Amélioration de travail collaboratif,
+* Amélioration de l'environnement de travail,
+* Amélioration de la communication,
+* Focalisation sur la dynamique des groupes,
+* Décentralisation du pouvoir (de la prise de décision et des 
+responsabilités – voir travaux de Mac Gregor).
+
+==== Différentes propositions
+
+===== Pyramide de Maslow
+
+Maslow se focalisait sur la question de la motivation au travail et il 
+a proposé une pyramide qui représente les besoins primaires et 
+secondaires de la personne. Il suppose que la motivation des salariés 
+dépend de la satisfaction des besoins.
+
+La représentation par pyramide hiérarchise les besoins en précisant que 
+les salariés n'ont conscience de l'existence d'un niveau de besoin 
+supérieur que si les besoins de niveau inférieur ont été satisfaits.
+
+Les besoins définis sont :
+
+* Les besoins physiologiques correspondent aux besoins de manger, 
+dormir, boire... qui ne peuvent être satisfaits uniquement grâce au salaire.
+* Les besoins de sécurité correspondent aux besoins de travailler dans 
+de bonnes conditions physiques, avoir un minimum de sécurité au niveau 
+de l'emploi.
+* Les besoins sociaux (ou besoin d'appartenance à un groupe). 
+* Les besoins d'estime correspondent aux besoins de reconnaissance (du 
+travail notamment)
+* Les besoins de réalisation de soi correspondent aux besoins de 
+visibilité en terme d'évolution de carrière.
+
+.Pyramide de Maslow
+image::Ch_03_Pyramide_de_Maslow.jpeg[]
+
+Parmi les critiques de cette hiérarchie, des auteurs confirment qu'elle 
+n'est pas applicable à toutes les personnes et à toutes les sociétés, 
+comme il est possible que la personne exprime plusieurs besoins 
+simultanément.
+
+===== Les théories X et Y de Mac Gregor
+
+Mac Gregor a proposé, en 1960, un nouveau style de management des hommes 
+en modélisant deux concepts de l'homme au travail se forme de deux 
+théories opposées :
+
+* Théorie X : elle correspond à l'idéologie et aux pratiques dominantes 
+de l'époque :
+** L'individu a une aversion innée pour le travail,
+** Il est, alors, nécessaire de le commander, le contrôler et de mettre en place des mesures correctives,
+** L'individu recherche avant tout la sécurité et fuit les responsabilités; il préfère être dirigé.
+* Théorie Y : qui place en adéquation les besoins individuels et organisationnels :
+** L'individu au travail peut s'auto-contrôler et se fixer ses propres objectifs; il cherche l'accomplissement en prenant des responsabilités,
+** Le salarié dispose d'un capital d'imagination et de créativité,
+** Il existe un stock de savoirs chez le salarié et ce stock n'est pas ou peu utilisé.
+
+==== Apport de l'école des Relations Humaines
+
+Son principal apport est l'enrichissement de la théorie et les sciences 
+de l'organisation par l'étude et la justification de la dimension 
+humaine de l'entreprise en s'intéressant aux facteurs humains et 
+behavioristes des salariés.
+
+==== Inconvénients de l'école des Relations Humaines
+
+Les travaux réalisées par les auteurs de cette école ont reçus plusieurs 
+critiques :
+
+* Les modèles proposés sont difficiles à généraliser pour toutes les 
+situations,
+* Ces travaux ignorent les aspects non-humains et se concentrent sur la 
+rémunération non-économique seulement,
+* Les propos donnés limitent les choix et les possibilités 
+d'intervention de la hiérarchie pour réguler le travail, par 
+conséquent, nous allons obtenir des bonnes relations humaines mais une 
+faible productivité.
+
+=== Ecole managériale et stratégique
+
+Cette école vient pour enrichir la théorie de l'organisation par une 
+autre dimension : l'environnement. Les deux écoles précédentes 
+présentent deux inconvénients communs et majeurs : 
+
+. Les deux écoles se concentrent sur un aspect donné et l'analysent sans prendre en compte les autres aspects.
+. Les deux écoles ignorent l'environnement de l'entreprise et se concentrent exclusivement sur l'intérieur de l'entreprise.
+
+Ces deux inconvénients ont commencé à faire surface et à démontrer des 
+effets remarquables avec la saturation du marché et l'arrivée puissante 
+de la concurrence dans les différents domaines après la Deuxième 
+Guerre mondiale.
+
+==== Hypothèses de l'école managériale et stratégique
+
+* La spécialisation et l'unité de commandement ne sont pas nécessairement 
+synonymes d'efficacité,
+* Il n'existe pas une organisation valable en toutes circonstances et 
+dans toutes les situations (il est impossible de proposer une 
+"One Best Way"),
+* La rationnalité est locale et limitée.
+
+==== Principes
+
+* Application des approches socio-économiques et socio-techniques pour 
+résoudre les problèmes organisationnels : ces approches prennent en 
+compte les dimensions techniques et économiques dans une analyse plus 
+globale,
+* La planification et l'adaptation au changement : l'employé n'est plus 
+spécialisé dans une seule tâche,
+* Planification stratégique et prise en compte des contraintes de 
+l'environnement (étude des marchés, surveille économique, etc.)
+* Structure dynamique : l'unité de commandement n'est plus gardée.
+
+==== Différentes travaux et propositions
+
+===== Les travaux d'Trist et Emery
+
+Dans leur article intitulé "The Causal Texture of Organizational 
+Environments" apparu en 1965, les deux auteurs proposent une étude plus 
+globale par rapport aux études effectuées à l'époque par l'école 
+comportementaliste (qui fait partie de l'école des relations humaines) 
+en proposant de prendre en compte l'environnement des organisations comme 
+un facteur important.
+
+Les deux auteurs insistent sur le fait que les contextes de 
+l'environnement dans lequel les organisations existent changent et 
+deviennent de plus en plus complexes et nécessitent une étude et analyse 
+scientifique dédiées. La cause principale est l'apparition d'une 
+dimension technologique importante qui peut être de la même importance 
+de la dimension humaine. 
+
+Dans leurs travaux, les deux auteurs proposent d'adopter l'approche 
+systémique pour analyser les phénomènes liés à l'organisation et pour 
+"élargir" les méthodes de pensée de leur époque sur les organisations. 
+Ces dernières se concentrent seulement sur les processus internes de 
+l'organisme au moment où les parties sont liées pour former un tout.
+
+===== Les travaux de Bertalanffy
+
+Ludwig von Bertalanffy, de sa part, a proposé la théorie générale des 
+systèmes dans son ouvrage intitulé "General System Theory" apparu 
+en 1968. __"Dans cet ouvrage, en analysant les analogies qui existent 
+entre tous les systèmes réels, l'auteur met en évidence une lecture 
+généralisable de leur fonctionnement. Il révèle le caractère ouvert 
+de tous les systèmes, qui est le fait qu'un système est en interaction 
+avec son environnement, donc avec les autres systèmes. Il laisse ainsi 
+apparaître une logique de système global unique"__.
+
+Trois notions essentielles pour caractériser une organisation comme 
+système :
+
+. La nature de l’environnement dans lequel évoluent les organisations ;
+. L’organisation est conçue comme un ensemble de sous-système reliés entre eux ;
+. L’importance de l’harmonisation des sous-systèmes.
+
+Pour rappel, c'est cette théorie même qui a permis a Jean-Louis 
+Le Moigne de réaliser ses travaux dans le domaine des systèmes 
+d'information.
+
+==== Avantages et inconvénients
+
+Cette approche est encore utilisée aujourd'hui par la grande majorité 
+des entreprises; ainsi, nous pouvons dire que son avantage majeur est 
+d'être le noyau et le fondement de l'économie d'aujourdh'ui. Son 
+inconvénient qui commence à faire surface est l'insécurité des employés 
+qui ressentent toujours que leurs postes sont menacés vu la dynamicité 
+de l'environnement et les changements très fréquents des structures et 
+organisations des entreprises.
+
+== Les structures des entreprises
+
+=== Dans ce chapitre
+
+Dans ce chapitre, nous allons mettre la main sur les structures 
+organisationnelles possibles des entreprises en essayant de mieux 
+comprendre les facteurs qui définissent ces structures (pourquoi arriver 
+à telle ou telle structure pour une entreprise donnée?) et les 
+caractéristiques de chaque structure (comment les tâches sont elle 
+réparties? Comment la coordination est-elle assurée?) tout en  
+présentant ces structures en utilisant les organigrammes.
+
+=== Définition d'une structure
+
+La structure d'une organisation est l'ensemble des dispositifs par 
+lesquels une entreprise répartit, coordonne et contrôle ses activités 
+(voir la définition de Mintzberg pour l'organisation). 
+
+=== Les fonctions de l'entreprise
+
+Une entreprise doit répartir ses tâches d'une manière précise et 
+structurée. Ces tâches peuvent être regroupées selon leurs finalités 
+sous forme de fonctions. Les fonctions à distinguées généralement sont :
+
+* La fonction production (ou technique),
+* La fonction commerciale,
+* La fonction financière,
+* La fonction comptable,
+* La fonction administrative et gestion des ressources humaines (GRH).
+
+D'autres fonctions peuvent exister selon la taille et le modèle 
+suivi par l'entreprise :
+
+* La fonction Marketing (nouvelle vision de la commercialisation),
+* La fonction Sécurité,
+* La fonction recherche et développement (R&D).
+
+==== La fonction production
+
+Avant les années 80, la fonction production était la fonction 
+principale. Pendant les années 80, la fonction commerciale a pris la 
+première place. Depuis les années 90, la concurrence accrue a entraîné 
+des obligations de qualité et de flexibilité qui ont redonné à la 
+fonction production son importance. Vu les avancées technologiques et 
+l'irrégularité des marchés, la flexibilité est un élément essentiel pour 
+pouvoir survivre; les machines installées doivent pouvoir accepter des 
+changements de réglage d'une manière rapide pour pouvoir s'adapter à de 
+nouvelles mesures de qualité des produits ou biens à des quantités de 
+productions variantes.
+
+===== La Qualité :
+
+Actuellement, les entreprises cherchent la qualité totale qui peut être 
+atteinte via les cinq (05) objectifs suivants :
+
+* Zéro panne : par la fiabilisation du processus de production,
+* Zéro délai : la la suppression des attentes,
+* Zéro défaut : "faire bien du premier coup",
+* Zéro stock : optimisation de l'activité de livraison,
+* Zéro papier : par la simplification des procédures administratives.
+
+La "non qualité" possède des coûts cachés de l'ordre de 10 à 15% du 
+chiffre d'affaires. Les coûts cachés sont :
+
+* Coût de rupture de chaîne en cas de panne.
+* Coût goulot d'étranglement en cas de délais.
+* Coût du service après vente en cas de défauts.
+* Coût de possession (locaux, surveillance, financiers) en cas de stockes.
+* Coût des services adminsitratifs et lenteur de la circulation des informations en cas de papiers.
+
+===== Normes ISO :
+
+ISO est l’acronyme pour International Standards Organization 
+(en Grec, « iso »  signifie « égal »).
+
+C’est une organisation supranationale qui fédère depuis 1979 des 
+organismes nationaux de normalisation avec pour objectifs le 
+développement de normes internationales. D’abord limitée aux produits, 
+l’exigence de qualité s’est progressivement étendue à tous les aspects 
+du fonctionnement de l’entreprise.
+
+Les normes internationales de qualité correspondent justement à des 
+ensembles de prescriptions à respecter dans différents domaines de 
+gestion.
+
+La  famille des normes ISO 9000 version 2000 est constituée des normes :
+
+* ISO 9000 Système de management de la qualité. Principes essentiels et 
+vocabulaire
+* ISO 9001 Système de management de la qualité. Exigences (Elle remplace 
+les ISO 9001, 9002, 9003 version 1994)
+* ISO 9004 Système de management de la qualité. Guide d’auto évaluation 
+pour l’amélioration des performances.
+
+En 1996, est née la norme ISO 14001 qui correspond à une norme environnementale.
+
+==== Fonction commerciale (mercatique, Marketing)
+
+Avant les années 70, les entreprises produisaient des biens et des 
+sevices et cherchaient ensuite à les éculer. C'était possible car 
+la demande était supérieure à l'offre. Néanmoins, les choses ont changé 
+après 1970; les entreprises ont réalisé qu'elle ne doivent pas produire 
+que ce qu'elles sont quasiment certaines de pouvoir le vendre. Ainsi, 
+la foction commerciale est née. La fonction commerciale est l'art de 
+présenter les produits aux consommateurs.
+
+Les étapes de l'action mercatique 
+
+. La connaissance du marché
+.. Etudes de marché,
+.. Contrôle de l'efficacité des actions engagées.
+. Les choix politiques
+.. Définition du produit ou du service adapté aux attentes du consommateur,
+.. Fixation du prix de vente,
+.. Politique de communication,
+.. Choix des canaux de distribution.
+. Les décisions opérationnelles
+.. Mise en place des campagnes de publicité et de promotion,
+.. Merchandising,
+.. Service Après Vente.
+
+==== Fonction Financière
+
+Le fonctionnement d'une entreprise engendre des besoins de financement 
+variés. Certains correspondent aux investissements à réalisaer, d'autres 
+sont des besoins liés à l'exploiatation.
+
+===== Types d'investissement
+
+* Les investissements de création (à l'origine de l'entreprise),
+* Les investissements de remplacement (amortissements),
+* Les investissements de modernisation (l’équipement n’est pas techniquement usé, mais il est obsolète)
+* Les investissements d’expansion ou de capacité (l’objectif de cet investissement est d’accroître la capacité de production).
+
+==== La Gestion des Ressources Humaines
+
+Les ressources humaines sont le bien le plus précieux de l’entreprise. 
+Elles sont source de créativité pour réaliser de nouveaux produits, les 
+mettre au point, les vendre. A tous les endroits clés de l’entreprise, 
+des femmes, des hommes conçoivent, gèrent, administrent. etc.
+
+Le dirigeant doit être conscient de "l'investissement" qu’il réalise en 
+embauchant une personne. Une attention particulière sera donc accordée 
+par le dirigeant à gérer de la manière la plus efficiente le "capital 
+humain" de son entreprise pour mettre au service du projet d’entreprise 
+et du marché qu’elle s’efforce de créer ou de conquérir du personnel 
+formé, compétent, motivé, créatif.
+
+Le dirigeant sera donc attentif à être lui-même bien (in)formé sur les 
+moyens de recrutement, formation, motivation, développement de la 
+créativité qu’il a intérêt à mettre ou faire mettre en œuvre pour 
+disposer d’une équipe qui le soutiendra dans sa recherche de l’atteinte 
+des objectifs qu’il aura fixés.
+
+Domaines de gestion couverts par la GRH 
+
+. L'administration du personnel,
+. Le recrutement,
+. La gestion des rénumérations,
+. La gestion des carrières,
+. La gestion des conflits,
+. La motivation et l'implication du personnel,
+. La communication de l'information,
+. Les conditions de travail,
+. La gestion de la paie.
+
+=== Eléments de définition des structures 
+
+Les facteurs permettant de définir une structure organisationnelle sont 
+les suivants :
+
+* Forme fonctionnelle : ensemble de fonctions et services.
+* Degré de formalisation : si ce qui doit être fait est écrit.
+* Degré de standardisation : si la manière de faire est standardisée.
+* Niveau de prise de décision : centralisation ou décentralisation
+* Sa sphère de communication.
+* Autonomie des départements et de services et différenciation de 
+pratique au sein de l'entreprise.
+* Intégration : coordonner les unités de l'entreprise pour permettre 
+l'adhésion des membres aux objectifs de l'entreprise.
+
+=== Les facteurs d'influence de la structure
+
+==== La stratégie
+
+Lorsque le décideur conduit des évolutions stratégiques (ouvrir de 
+nouvelles branches, attaquer des nouveaux marchés, etc.) la structure 
+doit nécessairement s'adapter.
+
+==== L'environnement
+
+Un environnement porteur d'incertitude conduira les entreprises à 
+adopter des structures formalisées alors qu'un environnement complexe 
+permettra aux entreprises l'adoption de structures plus souples.
+
+==== L'âge de l'entreprise
+
+Plus une organisation est âgée, plus son comportement est formalisé. Le 
+travail est bien maîtrisé, et a tendance à être répété, ce qui favorise 
+l'établissement de procédures.
+
+==== La taille de l'entreprise
+
+Plus une organisation est de grande taille, plus sa structure est 
+élaborée et plus les tâches sont spécialisées et formalisées.
+
+==== Le système technique
+
+Dans un système de production à l'unité (petite structure), le travail 
+n'est pas standardisé, formalisé. La communication se réalise par 
+ajustement mutuel entre ouvrier et supérieur direct.
+
+Dans une grande entreprise, le comportement de l'homme est imposé par 
+la machine, entraînant un travail répétitif, standardisé, formalisé et 
+la coordination se fait par des procédures.
+
+==== La culture
+
+La culture sociétale a tendance à se reproduire dans une entreprise, 
+donc centralisation et autocratie sont enracinées dans la programmation 
+mentale de la population.
+
+==== Le pouvoir
+
+Plus le contrôle extérieur est puissant (par exemple, actionnaire 
+majoritaire), plus la structure de l'entreprise est formalisée et s
+tandardisée. Dans ce cas, le dirigeant exige des preuves écrites des 
+actions, car il n'est responsable de ce qui arrive à l'entreprise. Le 
+besoin de pouvoir de certains dirigeants pousse quelques fois à une 
+centralisation extrême.
+
+=== Les différentes structures organisationnelles
+
+Il est possible de proposer quelques modèles comme résultat d'étude 
+pour les différentes structures organisationnelles possibles, néanmoins, 
+ces modèles restent une simplification de la réalité qui est plus 
+complexe et présente plusieurs déviations.
+
+Il est ossible d'étudier les structures en se basant sur le principe de 
+répartition des tâches. Ainsi, nous pouvons voir ces structures selon 
+les deux dimensions : 
+
+. **Horizontale :** répartition des tâches,
+. **Verticale :** répartition du pouvoir (système d'autorité).
+
+==== Répartition horizontale
+
+===== Structure fonctionnelle
+
+.Structure fonctionnelle
+image::Structure_Fonctionnelle.jpeg[]
+
+Cette structure est, généralement, utilisée par les entreprises 
+caractérisées par la répitition du travail et par la production 
+d'un ou de peu de produits. Le mécanisme de coordination principal 
+est la supervision directe où chaque employé ne reçoit ses ordres 
+que d'un seul responsable hiérarchique.
+
+Avantages :
+
+* Adéquate pour un environnement stable,
+* Exploitation optimale des ressources (application de la OST).
+
+Inconvénients :
+
+* Centralisation (lourdeur, temps de réponse relativement lent),
+* Régidité (incapacité de s'adapter).
+
+===== Structure divisionnelle
+
+Cette structure a été appliquée pour la première fois par General Motors 
+pendant les années 20. La répartition des tâches se base sur les 
+produits ou sur les marchés (les zones). Le mécanisme de coordination 
+principal est la standardisation des procédés ou bien la standardisation 
+des résultats.
+
+Une structure en divisions selon les produits peut être présentée ainsi :
+
+image::Structure_Divisionnelle_Produit.jpeg[]
+
+Une structure diviosnnelle selon les zones peut être représentée comme suit :
+
+image::Structure_Divisionnelle_Zone.jpeg[]
+
+Avanatges :
+
+* Capacité et possibilité de réagir (temps de réponse plus rapide),
+* Divers points de contrôle (décentralisation),
+* Apparition et détection des compétences en terme de planification 
+stratégique.
+
+Inconvénients :
+
+* Complexité de gestion des ressources (augmentation des échanges entre 
+les différentes divisions).
+
+===== Structure matricielle
+
+Dans cette structure, deux dimensions sont prises en considération : la 
+dimension fonctionelle (les ressources) et la dimension opérationelle 
+(ou divisionnelle). Cette structure contredit l'unité de commandement 
+en mettant chaque employé sous la résponsabilité de deux chefs (un chef 
+fonctionnel et autre opérationnel). Le mécanisme d'ajustement mutuel 
+peut, à nouveau, être utilisé malgré la taille de l'entreprise.
+
+Avantages :
+
+* Décentralisation,
+* Voies de communication plus courtes,
+* Augmentation de la flexibilité,
+* Possibilité et capacité de réagir,
+* La compétence prime sur les privilèges hiérarchiques.
+
+Inconvénients :
+
+* Désorganisation vs. Création de superstructure pour gérer les ressources,
+* Risque des conflits de responsabilité,
+* Côut elevé.
+
+image::Structure_Matricielle.jpeg[]
+
+==== Répartition verticale
+
+La répartition verticale est complémentaire à la répartition horizontale 
+vu l'importance des actions de contrôle au sein de l'entreprise. Les 
+questions à lesquelles répond cette répartition sont : qui contrôle? Et 
+comment contrôle-t-il?
+
+===== Line (Fayol)
+
+.Line
+image::Line.jpeg[]
+
+Principe :
+
+* L'unité de commandement.
+
+Avantages :
+
+* Descipline,
+* Définition claire de la chaîne de responsabilité.
+
+Inconvénients :
+
+* Mauvaise circulation de l'information,
+* Pression et surcharge des responsables.
+
+===== Staff (Taylor)
+
+.Staff 
+image::Staff.jpeg[]
+
+Principe :
+
+* L'autorité doit être attribuée aux spécialistes,
+* L'unité de commandement n'est pas respectée.
+
+Avantages :
+
+* Compétence des membres de la chaîne de responsabilité.
+
+Inconvénients :
+
+* Conflit des responsabilités.
+
+===== Staffe & Line
+
+.Staff & Line 
+image::StaffAndLine.jpeg[]
+
+Cette structure tente de reprendre les avantages des deux approches 
+précédentes mais sans prendre les inconvénients. Cette structure permet 
+aux spécialistes d'intervenir mais sans changer ou être en conflit avec 
+la chaîne de responsabilité en Line.
+
+== Mécanismes de coordination
+
+=== Dans ce chapitre
+
+La répartition des tâches est la première partie dans l'activité 
+d'organisation. La deuxième partie qui accomplit la répartition est 
+la coordination entre ces tâches. Dans ce chapitre, nous allons 
+présenter les cinq mécanismes de coordination définis par Mintzberg.
+
+=== Les différents mécanismes de coordination
+
+==== Ajustement mutuel
+
+L'ajustement mutuel est la coordination du travail par simple 
+communication informelle. Cette forme de coordination est, généralement 
+utilisée par les petites et simples entreprises (le magasin du coin) et 
+par les entreprises et organisations très complexes (la NASA). 
+
+==== La supervision directe
+
+Le mécanisme de coordination par lequel une personne se trouve investie 
+de la responsabilité du travail des autres. 
+
+==== La standardisation du travail
+
+La coordination des diverses parties est incorporée dans le programme 
+(les règles, les lois, etc.) dès la conception et la création de 
+l'entreprise et le besoin de la communication continu s'en trouve 
+réduit.
+
+Dans cette catégorie, nous avons trois possibilités de standardisation :
+
+===== Standardisation des procédés
+
+Le contenu du travail est spécifié ou programmé par des spécialistes 
+(exemple : fabrication du pâtisserie).
+
+===== Standardisation des qualifications
+
+Le travail est coordonné par la spécification de la formation et des 
+qualités requises dans celui qui va exécuter le travail (exemple : poste 
+de chirurgien).
+
+===== Standardisation des résultats
+
+Le travail est coordonné par la spécification, à l'avance, des 
+dimensions du produit ou de la performance à atteindre (exemple : le 
+taxieur vise une recette journalière mais sans spécifier le chemin à 
+suivre ou la façon de conduire).
+
+=== Evolution de l'entreprise
+
+Selon Mintzberg, il existe une continuité entre les différents 
+mécanismes de coordination. Lorsque le travail accompli par l'entreprise 
+devient de plus en plus complexe, le mécanisme utilisé passe de 
+l'ajustement mutuel qui est généralement adopté pendant la création de 
+l'entreprise à la supervision directe. Si l'évolution de l'entreprise 
+continue, elle doit passer à l'utilisation d'un mécanisme de 
+standardisation. Si l'entreprise continue vers un niveau très complexe, 
+elle se voit obligée de revenir vers l'ajustement mutuel.
+
+Mintzberg insiste sur le fait que chaque entreprise utilise les cinq 
+mécanismes mais avec des degrées différents avec la présence d'un 
+mécanisme dominant.
+
+image::Mecanismes_De_Coordination.jpeg[]
+
+== L'informatique dans l'entreprise
+
+=== Dans ce chapitre
+
+Nous allons essayer d'aborder l'intégration de l'outil informatique dans 
+l'activité de l'entreprise (appelé souvent : l'informatisation de 
+l'entreprise ou bien l'informatisation du système d'information). 
+Nous allons voir les différents outils informatiques utilisés par 
+l'entreprise avec les différents critères de choix à prendre en compte 
+pendant l'acquisition de ces outils.
+
+=== Position de l'informatique
+
+.Par Jean-Christophe BENOIST (Travail personnel) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons.
+image::mintzberg.jpg[]
+
+Mintzberg relève les acteurs fondamentaux suivants entre lesquels se 
+répartit le pouvoir dans les organisations.
+
+* Le centre opérationnel constitué par les travailleurs, qui réalisent 
+l’activité de production des biens ou services proposés par 
+l’organisation. Si ces travailleurs sont faiblement qualifiés on parle 
+d’opérateurs, si leur degré de qualification est élevé on parlera plutôt 
+de professionnels.
+* Le sommet stratégique, composé par la direction et ses adjoints 
+directs. C’est là que se prennent généralement les décisions 
+stratégiques pour l’organisation.
+* La ligne hiérarchique intégrant les cadres intermédiaires. Elle 
+représente une hiérarchie d’autorité entre le centre opérationnel et le 
+sommet stratégique.
+* Les analystes de la technostructure représentant ceux qui sont chargés 
+de la standardisation du travail : recrutement, formation du personnel, 
+règlements, programmes de travail, etc.
+* Le personnel de soutien logistique, ceux qui aident les opérateurs : 
+nettoyage, restauration, service juridique.
+
+L'informatique prend, ainsi, sa position dans la technostructure de 
+l'entreprise.
+
+=== Avantages
+
+* La capacité de stockage et de traitement considérablement accrûe,
+* Accélération et simplification des tâches et traitements répétitifs 
+gain du temps),
+* Nouvelles possibilités de traitement de l'information (simulation, 
+analyse statistique, etc.)
+
+=== Critères de choix
+
+* Capacité et rapidité des matériels,
+* Connexion en réseaux (système et infrastructure),
+* Système d'exploitation utilisé,
+* Progiciels disponibles sur le marché,
+* Coût d'acquisition et de maintenance,
+* Question de sécurité (contre les pannes et contre les attaques).
+
+=== Les étapes de l'informatisation
+
+==== Acuquisition du système
+
+Cette étape commence par l'expression d'un besoin par un ensemble des 
+utilisateurs (employés) de l'entreprise. Sur ce fait, une étude des 
+besoins doit être menée ainsi qu'une recherche de documentation auprès 
+des éditeurs de logiciels ou de leurs distributeurs. L'objectif est de 
+pouvoir choisir le meilleur logiciel pour satisfaire le besoin exprimé.
+ 
+L'entreprise peut, dans la plupart des cas, ne pas trouver un logiciel 
+adéquat. Elle aura le choix de commander un système qui sera construit 
+à zéro ou bien d'acheter un progiciel (ERP) adaptable et de l'adapter 
+selon son besoin.
+
+==== Exploitation
+
+Elle est constituée par la rédaction de consignes d'exploitation 
+destinées aux utilisateurs puis par l'organisation d'une formation des 
+utilisateurs. Elle se termine par la mise du système en exploiatation.
+
+=== L'organisation informatique
+
+C'est le degré de centralisation du pouvoir de décision qui détermine la 
+forme de traitement informatique retenu.
+
+==== Le système centralisé
+
+Un système centralisé est mis en place lorsque l'ensemble des 
+applications est effectué par un ordinateur central (serveur) géré par 
+le service informatique de l'entreprise et que les utilisateurs n'ont 
+pas un accès direct au matériel et qu'ils doivent demander aux employés 
+du service informatique de lancer tel ou tel traitement.
+
+==== Le système distribué
+
+Cette solution associe un ordinateur central (serveur) à des terminaux 
+(clients) disponibles dans les différents services. L'accès est, ainsi, 
+décentralisé et les employés peuvent lancer les traitements et accéder 
+aux données du système.
+
+==== L'informatique personnelle
+
+Cette solution dote chaque poste de travail de matériel informatique 
+autonome.
+
+=== Les domaines d'pplication de l'informatique dans l'entreprise
+
+==== L'informatique de gestion
+
+Elle recouvre l'exploitation informatique des données et l'utilisation 
+des résultats pour les décisions opérationnelles, tactiques et 
+stratégiques. On peut parler des systèmes d'information pour la 
+gestion (SIG).
+
+==== L'informatique opérationnelle
+
+Les systèmes de ce niveau garantissent la réalisation des tâches et des 
+opérations physiques ou administratives de l'entreprise (facturation, 
+paie, comptabilité, etc.)
+
+==== l'informatique de reportage
+
+Les traitements fournissent des rapports sur l'activité er le 
+fonctionnement des différents systèmes opérants.
+
+==== L'informatique décisionnelle
+
+A ce niveau, l'outil informatique peut fournir un ensemble des 
+techniques et des modèles d'aide à la décision pour faciliter le travail 
+d'analyse des décideurs.
+
+Les outils sont très variés et reposent sur des technologies différentes 
+(tableaux de bord, SIAD, etc.) et s'appliquent aux différents domaines 
+de gestion dans l'entreprise.
+
+==== La bureautique
+
+Elle désigne l'ensemble des équipements électroniques de bureaux. Elle 
+donne de plus en plus de place à la micro-informatique pour réaliser les 
+opérations administratives traditionnelles (traitement de texte, tableur, 
+impression, scan, etc.).
+
+==== Assistance
+
+On désigne par l'assistance les différentes applications informatiques 
+qui assistent les concepteurs pendant le processus de la production 
+industrielle :
+
+* CAO (Conception Assistée par Ordinateur),
+* PAO (Planification Assistée par Ordinateur).
+
+[bibliography]
+== Références
+
+- AFNOR: Les différents courants de pensée de la théorie des organisations. AFNOR, 2016.
+- Boukraa, D.: Cours Gestion et Organisation des Entreprises. Université de Jijel, 2013.
+- Ghomari, A. R.: Cours Organisations et Gestion des Entreprises. Ecole nationale Supérieure d'Informatique, 2006.
+- Grootaers, D.: Les apports de Henri Mintzberg. Le GRAIN asbl, 2005.
+- Kervella, G.: Fiche de lecture : Henri Mintzberg, Structure et dynamique des organisations. Conservatoire National des Arts et Métiers. Paris, 2014.
+- Lasary: Théorie des organisations. Dar El Othmania. Alger, 2007.
+- Makhlouf, F.: L'Entreprise : structure, fonctions et organisation. Editions Pages Bleues. Alger, 2012.
+- Makhlouf, F: L'entreprise : Organisation et Gestion. Editions Pages Bleues, 2006.
+- Tizio, A.: Synthèse : Henri Mintzberg, Structure et dynamique des organisations. Contrôle de Gestion, 1999.

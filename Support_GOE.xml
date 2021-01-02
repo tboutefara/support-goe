@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Gestion et Organisation des Entreprise</title>
+<subtitle>Support du Cours</subtitle>
+<date>2021-01-01</date>
+<author>
+<personname>
+<firstname>Tarek</firstname>
+<surname>Boutefara</surname>
+</personname>
+<email>t_boutefara@univ-jijel.dz</email>
+</author>
+<authorinitials>TB</authorinitials>
+<revhistory>
+<revision>
+<revnumber>0.1</revnumber>
+<date>2021-01-01</date>
+<authorinitials>TB</authorinitials>
+</revision>
+</revhistory>
+</info>
+<section xml:id="_organiser">
+<title>Organiser</title>
+<section xml:id="_définitions">
+<title>Définitions</title>
+<section xml:id="_larousse_définition_du_dictionnaire">
+<title>Larousse (définition du dictionnaire) :</title>
+<simpara>"Organiser c&#8217;est donner aux parties d&#8217;un corps la disposition nécessaire
+pour les fonctions auxquelles il est destiné".</simpara>
+</section>
+<section xml:id="_h_fayol_vision_managériale">
+<title>H. Fayol (vision managériale) :</title>
+<simpara>"Organiser une entreprise c&#8217;est la munir de tout ce qui est utile à son
+fonctionnement : matériaux, capitaux, personnel par l&#8217;action des
+5 principes de management prévoir, organiser, commander, coordonner,
+contrôler".</simpara>
+</section>
+<section xml:id="_e_morin_les_relations_humaines">
+<title>E. Morin (les relations humaines) :</title>
+<simpara>"L&#8217;organisation est l&#8217;agencement de relations entre composants ou
+individus qui produit une unité complexe ou système, dotée de qualités
+inconnues au niveau des composants ou individus. L&#8217;organisation lie de
+façon inter relationnelle des éléments ou événements ou individus divers
+qui dès lors deviennent les composants d&#8217;un tout. Elle assure solidarité
+et solidité, donc assure au système une certaine possibilité de durer
+en dépit de perturbations aléatoires".</simpara>
+</section>
+<section xml:id="_t_parsons_sciences_sociales">
+<title>T. Parsons (sciences sociales) :</title>
+<simpara>"Les organisations sont des unités sociales (ou groupements humains)
+délibérément construites et reconstruites pour poursuivre des buts spécifiques".</simpara>
+</section>
+<section xml:id="_h_mintzberg_science_des_organisations">
+<title>H. Mintzberg (science des organisations) :</title>
+<simpara>"Toute activité humaine organisée doit répondre à deux exigences
+fondamentales et contradictoires : la division du travail entre les
+différentes tâches à accomplir et la coordination des tâches pour
+l&#8217;accomplissement du travail".</simpara>
+</section>
+<section xml:id="_j_gerbier_vision_systémique">
+<title>J. Gerbier (vision systémique) :</title>
+<simpara>"Organiser c&#8217;est concevoir et mettre en place des systèmes, des
+structures, des méthodes, des procédures plus ou moins permanentes,
+à la fois nécessaires et suffisants, pour atteindre dans des conditions
+optimales, un but explicite, réputé accessible et ce à partir des données
+qualitatives et quantitatives et compte tenu des contraintes voulues ou
+subies".</simpara>
+</section>
+</section>
+<section xml:id="_buts_et_moyens_de_lorganisation">
+<title>Buts et moyens de l&#8217;organisation</title>
+<simpara>Selon Gerbier, toute action d&#8217;organisation vise l&#8217;un des objectifs
+suivants :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Améliorer la productivité</simpara>
+</listitem>
+<listitem>
+<simpara>Améliorer la qualité des biens et des services</simpara>
+</listitem>
+<listitem>
+<simpara>Maîtriser les délais</simpara>
+</listitem>
+<listitem>
+<simpara>Améliorer la sécurité des biens et des personnes</simpara>
+</listitem>
+<listitem>
+<simpara>Améliorer la qualité des informations</simpara>
+</listitem>
+<listitem>
+<simpara>Améliorer la circulation de l’information et des réseaux de communication</simpara>
+</listitem>
+<listitem>
+<simpara>Améliorer la qualité de la vie au travail</simpara>
+</listitem>
+</orderedlist>
+<simpara>Le schéma suivant montre les ressources utilisées pendant l&#8217;organisation
+et les finalités à atteindre :</simpara>
+<figure>
+<title>Ressources et finalités de l&#8217;organisation</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Ch_01_Organiser.jpeg"/>
+</imageobject>
+<textobject><phrase>Ch 01 Organiser</phrase></textobject>
+</mediaobject>
+</figure>
+</section>
+</section>
+<section xml:id="_les_entreprises">
+<title>Les Entreprises</title>
+<section xml:id="_définitions_2">
+<title>Définitions</title>
+<section xml:id="_cnrtl_définition_du_dictionnaire_centre_national_de_ressources_textuelles_et_lexicales_httpwww_cnrtl_fr">
+<title>CNRTL (définition du dictionnaire) <footnote><simpara>Centre National de Ressources Textuelles et Lexicales (<link xl:href="http://www.cnrtl.fr">http://www.cnrtl.fr</link>)</simpara></footnote></title>
+<simpara>(du verbe entreprendre) Unité économique combinant des capitaux et une
+main-d&#8217;œuvre salariée en vue de la production de biens, ou de leur
+commercialisation.</simpara>
+</section>
+<section xml:id="_larousse_définition_du_dictionnaire_2">
+<title>Larousse (définition du dictionnaire)</title>
+<simpara>Affaire agricole, commerciale ou industrielle, dirigée par une personne
+morale ou physique, privée, en vue de produire des biens ou services
+pour le marché; unité économique de production; firme.</simpara>
+</section>
+</section>
+<section xml:id="_approche_économique">
+<title>Approche économique</title>
+<section xml:id="_définition">
+<title>Définition :</title>
+<simpara>Une entreprise est une unité de production de biens (produits) ou de
+services. Les produits ou services sont destinés soit aux consommateurs
+directs ou aux autres entreprises.</simpara>
+<simpara>Les consommateurs directs peuvent être des individus, mais dans le cas
+de grandes entreprises, il s&#8217;agit d&#8217;entreprises de revente, des
+distributeurs, etc.</simpara>
+</section>
+<section xml:id="_différenciation">
+<title>Différenciation :</title>
+<simpara>Différencier un produit ou un service consiste à le démarquer de ceux de
+la concurrence sur la base des quatre « P », qui sont :</simpara>
+<section xml:id="_produit">
+<title>Produit</title>
+<itemizedlist>
+<listitem>
+<simpara>La différenciation par le produit considère ses caractéristiques
+intrinsèques, à savoir sa composition, sa qualité, son aspect marchand
+(garanties, assistances, &#8230;&#8203;).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_prix">
+<title>Prix</title>
+<itemizedlist>
+<listitem>
+<simpara>Il existe deux stratégies en matière de différenciation par le prix :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>soit une stratégie d&#8217;écrémage qui consiste à fixer les prix plutôt
+plus élevés que le concurrent,</simpara>
+</listitem>
+<listitem>
+<simpara>soit une stratégie de pénétration de marché qui consiste à fixer
+les prix plutôt moins élevés que le concurrent.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Le prix de vente d&#8217;un produit est déterminé par quatre facteurs :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Coût de revient.</simpara>
+</listitem>
+<listitem>
+<simpara>Concurrence.</simpara>
+</listitem>
+<listitem>
+<simpara>Demande (clients), on prend en compte la notion de prix psychologique.</simpara>
+</listitem>
+<listitem>
+<simpara>Réglementation en matière de fixation de prix (<emphasis>ex:</emphasis> dans le
+secteur pétrolier en période de crise).</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_place_distribution">
+<title>Place (Distribution)</title>
+<itemizedlist>
+<listitem>
+<simpara>Généralement un produit haut de gamme vendu cher est destiné à un
+réseau de distribution sélectif. Il importe de distinguer canal de
+distribution, circuit de distribution et réseau de distribution.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Un canal de distribution, c&#8217;est la voie d&#8217;acheminement d&#8217;un produit entre deux intermédiaires dans un circuit de distribution.</simpara>
+</listitem>
+<listitem>
+<simpara>Un circuit de distribution est l&#8217;ensemble des canaux de distribution.</simpara>
+</listitem>
+<listitem>
+<simpara>Un réseau de distribution est l&#8217;ensemble des circuits de distribution.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_publicité_promotion">
+<title>Publicité (Promotion)</title>
+<itemizedlist>
+<listitem>
+<simpara>Ces procédés concernent la communication autour du produit. Un gros
+budget de communication au lancement d&#8217;un produit permet de se démarquer
+de la concurrence.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>La publicité consiste à attirer les consommateurs (ou prospects)
+vers le produit (stratégie "pull").</simpara>
+</listitem>
+<listitem>
+<simpara>La promotion consiste à pousser le produit vers le consommateur
+(stratégie "push").</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</section>
+<section xml:id="_approche_sociologique">
+<title>Approche Sociologique</title>
+<simpara>L&#8217;approche sociale de définition d&#8217;une entreprise met l&#8217;accent sur les
+acteurs intervenant dans l&#8217;entreprise (vue selon l&#8217;approche économique).
+On distingue :
+==== Les apporteurs de capitaux (actionnaires) :</simpara>
+<simpara>Personnes qui contribuent
+par leurs moyens financiers au lancement et subsistance de l&#8217;entreprise</simpara>
+<itemizedlist>
+<listitem>
+<simpara>but : réaliser des gains et les augmenter</simpara>
+</listitem>
+<listitem>
+<simpara>source de pouvoir : capital</simpara>
+</listitem>
+<listitem>
+<simpara>stratégie : investissement</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="_les_dirigeants">
+<title>Les dirigeants :</title>
+<simpara>Personnes qui gèrent l&#8217;entreprise et le personnel, en
+contact direct avec les salariés.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>but : maximiser le profit et la performance de l&#8217;entreprise</simpara>
+</listitem>
+<listitem>
+<simpara>source de pouvoir : modèle de gestion</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_les_salariés_cadres_et_employés">
+<title>Les salariés (cadres et employés):</title>
+<simpara>Personnes qui produisent les biens
+ou fournissent les services.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>but : garantir leur emploi</simpara>
+</listitem>
+<listitem>
+<simpara>source de pouvoir : savoir-faire</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_approche_systémique">
+<title>Approche systémique</title>
+<simpara>Un système est un ensemble d&#8217;éléments qui agissent en interaction
+dynamique pour atteindre un objectif. Un système fermé est un système
+qui ne présente aucune interaction avec son environnement. Un système
+ouvert est un système qui présente des interactions avec son
+environnement.</simpara>
+<simpara>En prenant l&#8217;entreprise comme un système ouvert, nous pouvons préciser
+ses :</simpara>
+<section xml:id="_eléments">
+<title>Eléments :</title>
+<simpara>L&#8217;entreprise doit garantir plusieurs fonctions pour atteindre ses
+objectifs. Ces fonctions sont réalisées, dans l&#8217;entreprise, par des
+structures internes indépendantes mais en interaction dynamique. Parmi
+ces fonctions :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Fonction commerciale,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction technique,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction comptable et financière,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction ressources humaines.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_objectif">
+<title>Objectif :</title>
+<simpara>L&#8217;entreprise vise, de manière générale, le profit. Il peut être
+défini par la valeur ajoutée qui reste dans l&#8217;entreprise. Pour survivre,
+l&#8217;entreprise doit dégager un certain niveau de profit et le consacrer
+pour financer sa croissance.</simpara>
+</section>
+<section xml:id="_environnement">
+<title>Environnement :</title>
+<simpara>L&#8217;environnement de l&#8217;entreprise est constitué de plusieurs
+composantes de nature très diversifiée :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Economique,</simpara>
+</listitem>
+<listitem>
+<simpara>Sociale,</simpara>
+</listitem>
+<listitem>
+<simpara>Juridique,</simpara>
+</listitem>
+<listitem>
+<simpara>Politique,</simpara>
+</listitem>
+<listitem>
+<simpara>Technologique,</simpara>
+</listitem>
+<listitem>
+<simpara>etc.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_classification_des_entreprises">
+<title>Classification des entreprises</title>
+<simpara>Plusieurs classifications d&#8217;entreprises sont proposées selon le critère
+de classification choisi :</simpara>
+<section xml:id="_selon_le_domaine_dactivité">
+<title>Selon le domaine d&#8217;activité</title>
+<simpara>On distingue 3 types d&#8217;entreprises</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Secteur primaire :</emphasis> concerne les activités d&#8217;extraction des
+ressources de la terre. Les quatre industries de ce secteur sont :
+l&#8217;agriculture, la pêche, l&#8217;exploitation forestière et l&#8217;exploitation
+minière. Exemple : Sonatrach</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Secteur secondaire :</emphasis> concerne les activités de transformation des
+matières premières en produits finis. On trouve ces activités dans les
+firmes (entreprises industrielles).</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Secteur tertiaire :</emphasis> concerne les activités de production de
+services (banques, assurances,&#8230;&#8203;).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_selon_le_statut_juridique">
+<title>Selon le statut juridique</title>
+<simpara>Selon cette classification, on distingue :</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Les entreprises fondées par une personne :</emphasis> on distingue encore :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>les entreprises individuelles : elles sont fondées et gérées par une
+seule personne. Le capital de l&#8217;entreprise est le patrimoine de la
+personne. Cette dernière est la seule responsable de la perte ou
+bénéfices de l&#8217;entreprise.</simpara>
+</listitem>
+<listitem>
+<simpara>les EURL : il s&#8217;agit d&#8217;Entreprises Unipersonnelles à responsabilités
+limitées. L&#8217;EURL permet de distinguer le patrimoine du fondateur de
+celui ce l&#8217;entreprise. Cette dernière est considérée comme une personne
+morale.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Les entreprises fondées par plusieurs personnes :</emphasis> (sociétés) On
+parle de la notion de société lorsqu&#8217;il s&#8217;agit d&#8217;un contrat entre deux
+personnes ou plus (appelés associés). Chaque associé contribue par un
+apport (financier, machines, etc.) Selon les responsabilités des
+associés, surtout des impôts et dettes, on distingue encore :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>les sociétés de personnes : appelées SNC (ou sociétés au nom
+collectif). Dans ce cas, chaque associé est responsable des dettes de
+l&#8217;entreprise selon son apport. Aussi, le bénéfice de chaque associé est
+imposable séparément.</simpara>
+</listitem>
+<listitem>
+<simpara>les sociétés de capitaux : dans ce cas, le capital de l&#8217;entreprise
+est composé d&#8217;actions. Les personnes qui fondent l&#8217;entreprise sont
+appelées actionnaires. La responsabilité de chaque actionnaire ressemble
+à celle de la seule personne d&#8217;une EURL.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_selon_la_dimension">
+<title>Selon la dimension</title>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Effectif :</emphasis> selon l&#8217;UNDEST (Union nationale interprofessionnelle
+pour l&#8217;emploi dans l&#8217;industrie et le commerce), on distingue :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>TPE (microentreprise ou très petite entreprise) : effectif inférieur
+à 10 salariés.</simpara>
+</listitem>
+<listitem>
+<simpara>PE (petite entreprise) : effectif compris entre 10 et 49 salariés.</simpara>
+</listitem>
+<listitem>
+<simpara>ME (moyenne entreprise) : effectif compris entre 50 et 199 salariés.</simpara>
+</listitem>
+<listitem>
+<simpara>GME (grande et moyenne entreprise) : effectif compris entre 200 et
+499 salariés.</simpara>
+</listitem>
+<listitem>
+<simpara>GE (grande entreprise) : effectif supérieur ou égal à 500 salariés.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Selon le chiffre d&#8217;affaires annuel (PME, Grandes entreprises et
+Groupes commerciaux).</simpara>
+</listitem>
+<listitem>
+<simpara>La valeur ajoutée : elle représente la différence entre le prix de
+vente d’un produit et la valeur totale des dépenses qu’elle a engagée
+pour se procurer les biens et services qu’une entreprise donnée
+transforme.</simpara>
+</listitem>
+<listitem>
+<simpara>La surface de vente :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>De 120  à 400 mètres carrés : Supérette.</simpara>
+</listitem>
+<listitem>
+<simpara>De 401 à 2500 mètres carrés : Supermarché.</simpara>
+</listitem>
+<listitem>
+<simpara>A partir de 2501 mètres carrés : Hypermarché.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</section>
+<section xml:id="_les_écoles_de_pensée_en_sciences_dorganisation">
+<title>Les écoles de pensée en sciences d&#8217;organisation</title>
+<section xml:id="_dans_ce_chapitre">
+<title>Dans ce chapitre</title>
+<simpara>Pour mieux comprendre les différentes structures et facteurs pris en
+compte, nous devons comprendre les différentes écoles de pensée apparues
+en sciences d&#8217;organisation. D&#8217;un point de vue historique, la théorie
+des organisations n&#8217;a vu le jour qu&#8217;au début du 20ème siècle malgré que
+le principe d&#8217;organisation est présent dans les différents témoins
+archéologiques depuis la période "Aurignacienne" 35000 à 20000 av. JC.
+Il fallait attendre la révolution industrielle et l&#8217;apparition de la
+notion moderne de l&#8217;entreprise, qui représente aujourd&#8217;hui un élément
+central dans la vie économique, pour commencer à aborder la
+problématique d&#8217;organisation par une vision scientifique.</simpara>
+</section>
+<section xml:id="_ecole_classique">
+<title>Ecole Classique</title>
+<simpara>L&#8217;école classique représente les premières tentatives menées par des
+industriels et des ingénieurs pour analyser de manière scientifique
+l&#8217;organisation et de rationaliser son fonctionnement. Ce besoin est
+apparu au début de 20ème siècle avec l&#8217;accélération de
+l&#8217;industrialisation et l&#8217;apparition de la "grande entreprise" dans
+laquelle le capital (l&#8217;acteur "actionnaires") et le pouvoir
+organisationnel (les dirigeants) sont dissociés.</simpara>
+<simpara>Cette école a été fondée par les travaux de plusieurs auteurs tels que
+Taylor (le père de la théorie d&#8217;organisation), Fayol et Weber.</simpara>
+<section xml:id="_hypothèses">
+<title>Hypothèses</title>
+<itemizedlist>
+<listitem>
+<simpara>Il existe un modèle idéal d&#8217;organisation (The One Best Way),</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;efficacité repose sur une division des tâches ("le travail en miettes),</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;individu au travail ne répond qu&#8217;à des tâches d&#8217;exécution et qu&#8217;il
+ne peut faire preuve d&#8217;initiative,</simpara>
+</listitem>
+<listitem>
+<simpara>Le fonctionnement est régulé et coordonné par la hiérarchie.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_différentes_propositions">
+<title>Différentes propositions</title>
+<section xml:id="_taylor_et_lost_organisation_scientifique_du_travail_1911">
+<title>Taylor et l&#8217;OST (Organisation Scientifique du Travail) (1911)</title>
+<simpara>Taylor part du principe que l&#8217;homme n&#8217;aime pas le travail et n&#8217;accepte
+que la motivation salariale. Il tente d&#8217;améliorer la productivité et
+d&#8217;atteindre un fonctionnement optimal en appliquant :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Une spécialisation maximale : la spécialisation améliore le rendement,</simpara>
+</listitem>
+<listitem>
+<simpara>La parcellisation : l&#8217;analyse scientifique des temps, des gestes, etc.,</simpara>
+</listitem>
+<listitem>
+<simpara>La séparation des tâches de conception et d&#8217;exécution,</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;individualisation</simpara>
+</listitem>
+</orderedlist>
+<simpara>L&#8217;OST consiste en quatre points essentiels :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>La division horizontale du travail : où chaque tâche est soumise à une
+étude scientifique pour déterminer la meilleure manière de l&#8217;exécuter.</simpara>
+</listitem>
+<listitem>
+<simpara>La sélection scientifique : qui consiste à choisir la meilleure
+personne pour exécuter une tâche</simpara>
+</listitem>
+<listitem>
+<simpara>La division verticale du travail : où les dirigeants se chargent de
+donner des directives et les exécutants à les exécuter.</simpara>
+</listitem>
+<listitem>
+<simpara>Le contrôle de la bonne exécution du travail qui est la responsabilité
+de la hiérarchie.</simpara>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_ford_et_le_travail_à_la_chaîne_1913">
+<title>Ford et le travail à la chaîne (1913)</title>
+<simpara>En 1913, Ford a commencé à appliquer les principes de l&#8217;OST dans ses
+usines et a abouti à l&#8217;innovation du principe du travail à la chaîne
+(spécialisation du travail et parcellisation des tâches) et à atteindre
+un exploit social (les employés de Ford étaient les mieux payés aux
+Etats Unies). A cette époque, les machines ne réalisent que des
+opérations simples : l&#8217;homme est irremplaçable pour les manipulations
+complexes. La chaîne contraint ainsi l&#8217;homme à adopter le rythme de
+la machine.</simpara>
+</section>
+<section xml:id="_fayol_et_les_principes_dadministration">
+<title>Fayol et les principes d&#8217;administration</title>
+<simpara>Fayol, de sa part, s&#8217;était intéressé à l&#8217;administration et a essayé de
+répondre à la question : Qu&#8217;est ce qu&#8217;administrer ? En posant cette
+question, Fayol a enrichi la théorie de l&#8217;organisation en visant, non
+pas le rendement de l&#8217;employé seulement comme le faisait Taylor, mais
+le bon fonctionnement global de l&#8217;entreprise. Il insistait sur deux
+principes :
+* L&#8217;unité de commandement : "Pour une action quelconque, un agent ne
+doit recevoir des ordres que d&#8217;un seul chef.", ainsi, la hiérarchie doit
+être schématisable en arbre.
+* L&#8217;adminsnitration est associée à la responsabilité (récompense /
+pénalité).</simpara>
+<simpara>Fayol proposait les cinq tâches du dirigeants (devenus par la suite les cinq actions du management) :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Prévoir,</simpara>
+</listitem>
+<listitem>
+<simpara>Organiser,</simpara>
+</listitem>
+<listitem>
+<simpara>Commander,</simpara>
+</listitem>
+<listitem>
+<simpara>Coordonner,</simpara>
+</listitem>
+<listitem>
+<simpara>Contrôler.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Il a proposé, aussi, les six fonctions de l&#8217;entreprise :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Fonction technique de production,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction commerciale,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction financière,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction de sécurité,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction comptable,</simpara>
+</listitem>
+<listitem>
+<simpara>Fonction administrative.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Taylor a défini les 14 principes d&#8217;adminsitration :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Division du travail,</simpara>
+</listitem>
+<listitem>
+<simpara>Autorité responsabilité</simpara>
+</listitem>
+<listitem>
+<simpara>Discipline,</simpara>
+</listitem>
+<listitem>
+<simpara>Unité de commandement,</simpara>
+</listitem>
+<listitem>
+<simpara>Unité de direction,</simpara>
+</listitem>
+<listitem>
+<simpara>Recherche de l&#8217;intérêt général,</simpara>
+</listitem>
+<listitem>
+<simpara>Rémunération,</simpara>
+</listitem>
+<listitem>
+<simpara>Décentralisation,</simpara>
+</listitem>
+<listitem>
+<simpara>Hiérarchie,</simpara>
+</listitem>
+<listitem>
+<simpara>Ordre</simpara>
+</listitem>
+<listitem>
+<simpara>Equité</simpara>
+</listitem>
+<listitem>
+<simpara>Stabilité du personnel,</simpara>
+</listitem>
+<listitem>
+<simpara>Initiativie,</simpara>
+</listitem>
+<listitem>
+<simpara>Union du personnel.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_apports_de_lécole_classique">
+<title>Apports de l&#8217;école classique</title>
+<simpara>Le plus grand apport de l&#8217;école classique est le fondement de la science
+et de la théorie de l&#8217;organisation.  Cette école a pu remplacer la
+gestion mutuelle et intuitive par une organisation scientifique.</simpara>
+</section>
+<section xml:id="_inconvénients_de_lécole_classique">
+<title>Inconvénients de l&#8217;école classique</title>
+<simpara>La vision de l&#8217;école classique présente plusieurs lacunes dont :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Traiter les employés comme des machines : les employés sont vus comme
+des éléments organisationnels et économiques seulement,</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;absence de la flexibilité dans les procédures administratives,</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;excès de spécialisation et de division des tâches : diminution de
+la productivité des employés (déshumanisation du travail),</simpara>
+</listitem>
+<listitem>
+<simpara>Ignorer les aspects humains tels que les conflits sociaux, les
+comportements, etc.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_ecole_des_relations_humains">
+<title>Ecole des Relations Humains</title>
+<simpara>L&#8217;école des Relations Humaines représentent une évolution de la théorie
+de l&#8217;organisation qui vise, principalement, de remédier aux lacunes de
+l&#8217;école classique. En effet, la théorie de l&#8217;organisation est devenue
+le centre d&#8217;intérêt de plusieurs chercheurs qui ne sont pas des
+ingénieurs ou des industriels. Cette diversification a vite apporté
+son enrichissement à cette théorie.</simpara>
+<section xml:id="_les_expériences_delton_mayo">
+<title>Les expériences d&#8217;Elton Mayo</title>
+<simpara>Les travaux qui ont donné naissance à l&#8217;école des relations humaines
+sont ceux réalisés par Elton Mayo de 1927 à 1932 à l&#8217;usine de la
+Western Electric à Hawthorne. Cette usine a constaté qu&#8217;il y a une
+amélioration de la productivité qui résultait de l&#8217;amélioration de
+l&#8217;éclairage, ainsi, elle a fait appel à des chercheurs, et à leur tête
+Elton Mayo, pour comprendre l&#8217;influence du climat psychologique sur le
+rendement des employés.</simpara>
+<simpara>Mayo modifia les conditions de travail de six ouvriers dans un atelier
+(temps de repos, horaires de travail, aménagement du poste de travail,
+etc.) pour détecter les effets de ces changements sur le rendement des
+employés.</simpara>
+<simpara>A la fin de ces expériences, Mayo a affirmé que :</simpara>
+<simpara>__"Les individus qui constituent un atelier au travail ne sont pas,
+purement et simplement, des individus ; ils forment un groupe au sein
+duquel ils ont développé des habitudes de relations entre eux, avec
+leurs supérieurs, avec leur travail, avec les règlements de
+l&#8217;entreprise.</simpara>
+<simpara>Le désir d’être bien avec ses collègues de travail, ce que l’on appelle
+l’instinct humain d’association, l’emporte facilement sur le simple
+intérêt individuel et la logique des raisonnements sur lesquels tant
+de faux principes de direction sont fondés."__</simpara>
+</section>
+<section xml:id="_hypothèse">
+<title>Hypothèse</title>
+<simpara>L&#8217;hypothèse principale de l&#8217;école des Relations Humaines peut être
+résumée comme suit :</simpara>
+<simpara><emphasis>Il existe un lien solide entre la productivité et les conditions de
+travail, les sentiments des travailleurs, la formation des groupes et
+des relations que les employés entretiennent entre eux et avec les
+techniciens et les chefs.</emphasis></simpara>
+</section>
+<section xml:id="_principes">
+<title>Principes</title>
+<itemizedlist>
+<listitem>
+<simpara>Construction des relations humaines basées sur la confiance,</simpara>
+</listitem>
+<listitem>
+<simpara>Amélioration de travail collaboratif,</simpara>
+</listitem>
+<listitem>
+<simpara>Amélioration de l&#8217;environnement de travail,</simpara>
+</listitem>
+<listitem>
+<simpara>Amélioration de la communication,</simpara>
+</listitem>
+<listitem>
+<simpara>Focalisation sur la dynamique des groupes,</simpara>
+</listitem>
+<listitem>
+<simpara>Décentralisation du pouvoir (de la prise de décision et des
+responsabilités – voir travaux de Mac Gregor).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_différentes_propositions_2">
+<title>Différentes propositions</title>
+<section xml:id="_pyramide_de_maslow">
+<title>Pyramide de Maslow</title>
+<simpara>Maslow se focalisait sur la question de la motivation au travail et il
+a proposé une pyramide qui représente les besoins primaires et
+secondaires de la personne. Il suppose que la motivation des salariés
+dépend de la satisfaction des besoins.</simpara>
+<simpara>La représentation par pyramide hiérarchise les besoins en précisant que
+les salariés n&#8217;ont conscience de l&#8217;existence d&#8217;un niveau de besoin
+supérieur que si les besoins de niveau inférieur ont été satisfaits.</simpara>
+<simpara>Les besoins définis sont :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Les besoins physiologiques correspondent aux besoins de manger,
+dormir, boire&#8230;&#8203; qui ne peuvent être satisfaits uniquement grâce au salaire.</simpara>
+</listitem>
+<listitem>
+<simpara>Les besoins de sécurité correspondent aux besoins de travailler dans
+de bonnes conditions physiques, avoir un minimum de sécurité au niveau
+de l&#8217;emploi.</simpara>
+</listitem>
+<listitem>
+<simpara>Les besoins sociaux (ou besoin d&#8217;appartenance à un groupe).</simpara>
+</listitem>
+<listitem>
+<simpara>Les besoins d&#8217;estime correspondent aux besoins de reconnaissance (du
+travail notamment)</simpara>
+</listitem>
+<listitem>
+<simpara>Les besoins de réalisation de soi correspondent aux besoins de
+visibilité en terme d&#8217;évolution de carrière.</simpara>
+</listitem>
+</itemizedlist>
+<figure>
+<title>Pyramide de Maslow</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Ch_03_Pyramide_de_Maslow.jpeg"/>
+</imageobject>
+<textobject><phrase>Ch 03 Pyramide de Maslow</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Parmi les critiques de cette hiérarchie, des auteurs confirment qu&#8217;elle
+n&#8217;est pas applicable à toutes les personnes et à toutes les sociétés,
+comme il est possible que la personne exprime plusieurs besoins
+simultanément.</simpara>
+</section>
+<section xml:id="_les_théories_x_et_y_de_mac_gregor">
+<title>Les théories X et Y de Mac Gregor</title>
+<simpara>Mac Gregor a proposé, en 1960, un nouveau style de management des hommes
+en modélisant deux concepts de l&#8217;homme au travail se forme de deux
+théories opposées :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Théorie X : elle correspond à l&#8217;idéologie et aux pratiques dominantes
+de l&#8217;époque :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>L&#8217;individu a une aversion innée pour le travail,</simpara>
+</listitem>
+<listitem>
+<simpara>Il est, alors, nécessaire de le commander, le contrôler et de mettre en place des mesures correctives,</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;individu recherche avant tout la sécurité et fuit les responsabilités; il préfère être dirigé.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Théorie Y : qui place en adéquation les besoins individuels et organisationnels :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>L&#8217;individu au travail peut s&#8217;auto-contrôler et se fixer ses propres objectifs; il cherche l&#8217;accomplissement en prenant des responsabilités,</simpara>
+</listitem>
+<listitem>
+<simpara>Le salarié dispose d&#8217;un capital d&#8217;imagination et de créativité,</simpara>
+</listitem>
+<listitem>
+<simpara>Il existe un stock de savoirs chez le salarié et ce stock n&#8217;est pas ou peu utilisé.</simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_apport_de_lécole_des_relations_humaines">
+<title>Apport de l&#8217;école des Relations Humaines</title>
+<simpara>Son principal apport est l&#8217;enrichissement de la théorie et les sciences
+de l&#8217;organisation par l&#8217;étude et la justification de la dimension
+humaine de l&#8217;entreprise en s&#8217;intéressant aux facteurs humains et
+behavioristes des salariés.</simpara>
+</section>
+<section xml:id="_inconvénients_de_lécole_des_relations_humaines">
+<title>Inconvénients de l&#8217;école des Relations Humaines</title>
+<simpara>Les travaux réalisées par les auteurs de cette école ont reçus plusieurs
+critiques :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Les modèles proposés sont difficiles à généraliser pour toutes les
+situations,</simpara>
+</listitem>
+<listitem>
+<simpara>Ces travaux ignorent les aspects non-humains et se concentrent sur la
+rémunération non-économique seulement,</simpara>
+</listitem>
+<listitem>
+<simpara>Les propos donnés limitent les choix et les possibilités
+d&#8217;intervention de la hiérarchie pour réguler le travail, par
+conséquent, nous allons obtenir des bonnes relations humaines mais une
+faible productivité.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_ecole_managériale_et_stratégique">
+<title>Ecole managériale et stratégique</title>
+<simpara>Cette école vient pour enrichir la théorie de l&#8217;organisation par une
+autre dimension : l&#8217;environnement. Les deux écoles précédentes
+présentent deux inconvénients communs et majeurs :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Les deux écoles se concentrent sur un aspect donné et l&#8217;analysent sans prendre en compte les autres aspects.</simpara>
+</listitem>
+<listitem>
+<simpara>Les deux écoles ignorent l&#8217;environnement de l&#8217;entreprise et se concentrent exclusivement sur l&#8217;intérieur de l&#8217;entreprise.</simpara>
+</listitem>
+</orderedlist>
+<simpara>Ces deux inconvénients ont commencé à faire surface et à démontrer des
+effets remarquables avec la saturation du marché et l&#8217;arrivée puissante
+de la concurrence dans les différents domaines après la Deuxième
+Guerre mondiale.</simpara>
+<section xml:id="_hypothèses_de_lécole_managériale_et_stratégique">
+<title>Hypothèses de l&#8217;école managériale et stratégique</title>
+<itemizedlist>
+<listitem>
+<simpara>La spécialisation et l&#8217;unité de commandement ne sont pas nécessairement
+synonymes d&#8217;efficacité,</simpara>
+</listitem>
+<listitem>
+<simpara>Il n&#8217;existe pas une organisation valable en toutes circonstances et
+dans toutes les situations (il est impossible de proposer une
+"One Best Way"),</simpara>
+</listitem>
+<listitem>
+<simpara>La rationnalité est locale et limitée.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_principes_2">
+<title>Principes</title>
+<itemizedlist>
+<listitem>
+<simpara>Application des approches socio-économiques et socio-techniques pour
+résoudre les problèmes organisationnels : ces approches prennent en
+compte les dimensions techniques et économiques dans une analyse plus
+globale,</simpara>
+</listitem>
+<listitem>
+<simpara>La planification et l&#8217;adaptation au changement : l&#8217;employé n&#8217;est plus
+spécialisé dans une seule tâche,</simpara>
+</listitem>
+<listitem>
+<simpara>Planification stratégique et prise en compte des contraintes de
+l&#8217;environnement (étude des marchés, surveille économique, etc.)</simpara>
+</listitem>
+<listitem>
+<simpara>Structure dynamique : l&#8217;unité de commandement n&#8217;est plus gardée.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_différentes_travaux_et_propositions">
+<title>Différentes travaux et propositions</title>
+<section xml:id="_les_travaux_dtrist_et_emery">
+<title>Les travaux d&#8217;Trist et Emery</title>
+<simpara>Dans leur article intitulé "The Causal Texture of Organizational
+Environments" apparu en 1965, les deux auteurs proposent une étude plus
+globale par rapport aux études effectuées à l&#8217;époque par l&#8217;école
+comportementaliste (qui fait partie de l&#8217;école des relations humaines)
+en proposant de prendre en compte l&#8217;environnement des organisations comme
+un facteur important.</simpara>
+<simpara>Les deux auteurs insistent sur le fait que les contextes de
+l&#8217;environnement dans lequel les organisations existent changent et
+deviennent de plus en plus complexes et nécessitent une étude et analyse
+scientifique dédiées. La cause principale est l&#8217;apparition d&#8217;une
+dimension technologique importante qui peut être de la même importance
+de la dimension humaine.</simpara>
+<simpara>Dans leurs travaux, les deux auteurs proposent d&#8217;adopter l&#8217;approche
+systémique pour analyser les phénomènes liés à l&#8217;organisation et pour
+"élargir" les méthodes de pensée de leur époque sur les organisations.
+Ces dernières se concentrent seulement sur les processus internes de
+l&#8217;organisme au moment où les parties sont liées pour former un tout.</simpara>
+</section>
+<section xml:id="_les_travaux_de_bertalanffy">
+<title>Les travaux de Bertalanffy</title>
+<simpara>Ludwig von Bertalanffy, de sa part, a proposé la théorie générale des
+systèmes dans son ouvrage intitulé "General System Theory" apparu
+en 1968. <emphasis>"Dans cet ouvrage, en analysant les analogies qui existent
+entre tous les systèmes réels, l&#8217;auteur met en évidence une lecture
+généralisable de leur fonctionnement. Il révèle le caractère ouvert
+de tous les systèmes, qui est le fait qu&#8217;un système est en interaction
+avec son environnement, donc avec les autres systèmes. Il laisse ainsi
+apparaître une logique de système global unique"</emphasis>.</simpara>
+<simpara>Trois notions essentielles pour caractériser une organisation comme
+système :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>La nature de l’environnement dans lequel évoluent les organisations ;</simpara>
+</listitem>
+<listitem>
+<simpara>L’organisation est conçue comme un ensemble de sous-système reliés entre eux ;</simpara>
+</listitem>
+<listitem>
+<simpara>L’importance de l’harmonisation des sous-systèmes.</simpara>
+</listitem>
+</orderedlist>
+<simpara>Pour rappel, c&#8217;est cette théorie même qui a permis a Jean-Louis
+Le Moigne de réaliser ses travaux dans le domaine des systèmes
+d&#8217;information.</simpara>
+</section>
+</section>
+<section xml:id="_avantages_et_inconvénients">
+<title>Avantages et inconvénients</title>
+<simpara>Cette approche est encore utilisée aujourd&#8217;hui par la grande majorité
+des entreprises; ainsi, nous pouvons dire que son avantage majeur est
+d&#8217;être le noyau et le fondement de l&#8217;économie d&#8217;aujourdh&#8217;ui. Son
+inconvénient qui commence à faire surface est l&#8217;insécurité des employés
+qui ressentent toujours que leurs postes sont menacés vu la dynamicité
+de l&#8217;environnement et les changements très fréquents des structures et
+organisations des entreprises.</simpara>
+</section>
+</section>
+</section>
+<section xml:id="_les_structures_des_entreprises">
+<title>Les structures des entreprises</title>
+<section xml:id="_dans_ce_chapitre_2">
+<title>Dans ce chapitre</title>
+<simpara>Dans ce chapitre, nous allons mettre la main sur les structures
+organisationnelles possibles des entreprises en essayant de mieux
+comprendre les facteurs qui définissent ces structures (pourquoi arriver
+à telle ou telle structure pour une entreprise donnée?) et les
+caractéristiques de chaque structure (comment les tâches sont elle
+réparties? Comment la coordination est-elle assurée?) tout en
+présentant ces structures en utilisant les organigrammes.</simpara>
+</section>
+<section xml:id="_définition_dune_structure">
+<title>Définition d&#8217;une structure</title>
+<simpara>La structure d&#8217;une organisation est l&#8217;ensemble des dispositifs par
+lesquels une entreprise répartit, coordonne et contrôle ses activités
+(voir la définition de Mintzberg pour l&#8217;organisation).</simpara>
+</section>
+<section xml:id="_les_fonctions_de_lentreprise">
+<title>Les fonctions de l&#8217;entreprise</title>
+<simpara>Une entreprise doit répartir ses tâches d&#8217;une manière précise et
+structurée. Ces tâches peuvent être regroupées selon leurs finalités
+sous forme de fonctions. Les fonctions à distinguées généralement sont :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>La fonction production (ou technique),</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction commerciale,</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction financière,</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction comptable,</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction administrative et gestion des ressources humaines (GRH).</simpara>
+</listitem>
+</itemizedlist>
+<simpara>D&#8217;autres fonctions peuvent exister selon la taille et le modèle
+suivi par l&#8217;entreprise :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>La fonction Marketing (nouvelle vision de la commercialisation),</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction Sécurité,</simpara>
+</listitem>
+<listitem>
+<simpara>La fonction recherche et développement (R&amp;D).</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="_la_fonction_production">
+<title>La fonction production</title>
+<simpara>Avant les années 80, la fonction production était la fonction
+principale. Pendant les années 80, la fonction commerciale a pris la
+première place. Depuis les années 90, la concurrence accrue a entraîné
+des obligations de qualité et de flexibilité qui ont redonné à la
+fonction production son importance. Vu les avancées technologiques et
+l&#8217;irrégularité des marchés, la flexibilité est un élément essentiel pour
+pouvoir survivre; les machines installées doivent pouvoir accepter des
+changements de réglage d&#8217;une manière rapide pour pouvoir s&#8217;adapter à de
+nouvelles mesures de qualité des produits ou biens à des quantités de
+productions variantes.</simpara>
+<section xml:id="_la_qualité">
+<title>La Qualité :</title>
+<simpara>Actuellement, les entreprises cherchent la qualité totale qui peut être
+atteinte via les cinq (05) objectifs suivants :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Zéro panne : par la fiabilisation du processus de production,</simpara>
+</listitem>
+<listitem>
+<simpara>Zéro délai : la la suppression des attentes,</simpara>
+</listitem>
+<listitem>
+<simpara>Zéro défaut : "faire bien du premier coup",</simpara>
+</listitem>
+<listitem>
+<simpara>Zéro stock : optimisation de l&#8217;activité de livraison,</simpara>
+</listitem>
+<listitem>
+<simpara>Zéro papier : par la simplification des procédures administratives.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>La "non qualité" possède des coûts cachés de l&#8217;ordre de 10 à 15% du
+chiffre d&#8217;affaires. Les coûts cachés sont :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Coût de rupture de chaîne en cas de panne.</simpara>
+</listitem>
+<listitem>
+<simpara>Coût goulot d&#8217;étranglement en cas de délais.</simpara>
+</listitem>
+<listitem>
+<simpara>Coût du service après vente en cas de défauts.</simpara>
+</listitem>
+<listitem>
+<simpara>Coût de possession (locaux, surveillance, financiers) en cas de stockes.</simpara>
+</listitem>
+<listitem>
+<simpara>Coût des services adminsitratifs et lenteur de la circulation des informations en cas de papiers.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_normes_iso">
+<title>Normes ISO :</title>
+<simpara>ISO est l’acronyme pour International Standards Organization
+(en Grec, « iso »  signifie « égal »).</simpara>
+<simpara>C’est une organisation supranationale qui fédère depuis 1979 des
+organismes nationaux de normalisation avec pour objectifs le
+développement de normes internationales. D’abord limitée aux produits,
+l’exigence de qualité s’est progressivement étendue à tous les aspects
+du fonctionnement de l’entreprise.</simpara>
+<simpara>Les normes internationales de qualité correspondent justement à des
+ensembles de prescriptions à respecter dans différents domaines de
+gestion.</simpara>
+<simpara>La  famille des normes ISO 9000 version 2000 est constituée des normes :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>ISO 9000 Système de management de la qualité. Principes essentiels et
+vocabulaire</simpara>
+</listitem>
+<listitem>
+<simpara>ISO 9001 Système de management de la qualité. Exigences (Elle remplace
+les ISO 9001, 9002, 9003 version 1994)</simpara>
+</listitem>
+<listitem>
+<simpara>ISO 9004 Système de management de la qualité. Guide d’auto évaluation
+pour l’amélioration des performances.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>En 1996, est née la norme ISO 14001 qui correspond à une norme environnementale.</simpara>
+</section>
+</section>
+<section xml:id="_fonction_commerciale_mercatique_marketing">
+<title>Fonction commerciale (mercatique, Marketing)</title>
+<simpara>Avant les années 70, les entreprises produisaient des biens et des
+sevices et cherchaient ensuite à les éculer. C&#8217;était possible car
+la demande était supérieure à l&#8217;offre. Néanmoins, les choses ont changé
+après 1970; les entreprises ont réalisé qu&#8217;elle ne doivent pas produire
+que ce qu&#8217;elles sont quasiment certaines de pouvoir le vendre. Ainsi,
+la foction commerciale est née. La fonction commerciale est l&#8217;art de
+présenter les produits aux consommateurs.</simpara>
+<simpara>Les étapes de l&#8217;action mercatique</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>La connaissance du marché</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Etudes de marché,</simpara>
+</listitem>
+<listitem>
+<simpara>Contrôle de l&#8217;efficacité des actions engagées.</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>Les choix politiques</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Définition du produit ou du service adapté aux attentes du consommateur,</simpara>
+</listitem>
+<listitem>
+<simpara>Fixation du prix de vente,</simpara>
+</listitem>
+<listitem>
+<simpara>Politique de communication,</simpara>
+</listitem>
+<listitem>
+<simpara>Choix des canaux de distribution.</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>Les décisions opérationnelles</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Mise en place des campagnes de publicité et de promotion,</simpara>
+</listitem>
+<listitem>
+<simpara>Merchandising,</simpara>
+</listitem>
+<listitem>
+<simpara>Service Après Vente.</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_fonction_financière">
+<title>Fonction Financière</title>
+<simpara>Le fonctionnement d&#8217;une entreprise engendre des besoins de financement
+variés. Certains correspondent aux investissements à réalisaer, d&#8217;autres
+sont des besoins liés à l&#8217;exploiatation.</simpara>
+<section xml:id="_types_dinvestissement">
+<title>Types d&#8217;investissement</title>
+<itemizedlist>
+<listitem>
+<simpara>Les investissements de création (à l&#8217;origine de l&#8217;entreprise),</simpara>
+</listitem>
+<listitem>
+<simpara>Les investissements de remplacement (amortissements),</simpara>
+</listitem>
+<listitem>
+<simpara>Les investissements de modernisation (l’équipement n’est pas techniquement usé, mais il est obsolète)</simpara>
+</listitem>
+<listitem>
+<simpara>Les investissements d’expansion ou de capacité (l’objectif de cet investissement est d’accroître la capacité de production).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_la_gestion_des_ressources_humaines">
+<title>La Gestion des Ressources Humaines</title>
+<simpara>Les ressources humaines sont le bien le plus précieux de l’entreprise.
+Elles sont source de créativité pour réaliser de nouveaux produits, les
+mettre au point, les vendre. A tous les endroits clés de l’entreprise,
+des femmes, des hommes conçoivent, gèrent, administrent. etc.</simpara>
+<simpara>Le dirigeant doit être conscient de "l&#8217;investissement" qu’il réalise en
+embauchant une personne. Une attention particulière sera donc accordée
+par le dirigeant à gérer de la manière la plus efficiente le "capital
+humain" de son entreprise pour mettre au service du projet d’entreprise
+et du marché qu’elle s’efforce de créer ou de conquérir du personnel
+formé, compétent, motivé, créatif.</simpara>
+<simpara>Le dirigeant sera donc attentif à être lui-même bien (in)formé sur les
+moyens de recrutement, formation, motivation, développement de la
+créativité qu’il a intérêt à mettre ou faire mettre en œuvre pour
+disposer d’une équipe qui le soutiendra dans sa recherche de l’atteinte
+des objectifs qu’il aura fixés.</simpara>
+<simpara>Domaines de gestion couverts par la GRH</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>L&#8217;administration du personnel,</simpara>
+</listitem>
+<listitem>
+<simpara>Le recrutement,</simpara>
+</listitem>
+<listitem>
+<simpara>La gestion des rénumérations,</simpara>
+</listitem>
+<listitem>
+<simpara>La gestion des carrières,</simpara>
+</listitem>
+<listitem>
+<simpara>La gestion des conflits,</simpara>
+</listitem>
+<listitem>
+<simpara>La motivation et l&#8217;implication du personnel,</simpara>
+</listitem>
+<listitem>
+<simpara>La communication de l&#8217;information,</simpara>
+</listitem>
+<listitem>
+<simpara>Les conditions de travail,</simpara>
+</listitem>
+<listitem>
+<simpara>La gestion de la paie.</simpara>
+</listitem>
+</orderedlist>
+</section>
+</section>
+<section xml:id="_eléments_de_définition_des_structures">
+<title>Eléments de définition des structures</title>
+<simpara>Les facteurs permettant de définir une structure organisationnelle sont
+les suivants :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Forme fonctionnelle : ensemble de fonctions et services.</simpara>
+</listitem>
+<listitem>
+<simpara>Degré de formalisation : si ce qui doit être fait est écrit.</simpara>
+</listitem>
+<listitem>
+<simpara>Degré de standardisation : si la manière de faire est standardisée.</simpara>
+</listitem>
+<listitem>
+<simpara>Niveau de prise de décision : centralisation ou décentralisation</simpara>
+</listitem>
+<listitem>
+<simpara>Sa sphère de communication.</simpara>
+</listitem>
+<listitem>
+<simpara>Autonomie des départements et de services et différenciation de
+pratique au sein de l&#8217;entreprise.</simpara>
+</listitem>
+<listitem>
+<simpara>Intégration : coordonner les unités de l&#8217;entreprise pour permettre
+l&#8217;adhésion des membres aux objectifs de l&#8217;entreprise.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_les_facteurs_dinfluence_de_la_structure">
+<title>Les facteurs d&#8217;influence de la structure</title>
+<section xml:id="_la_stratégie">
+<title>La stratégie</title>
+<simpara>Lorsque le décideur conduit des évolutions stratégiques (ouvrir de
+nouvelles branches, attaquer des nouveaux marchés, etc.) la structure
+doit nécessairement s&#8217;adapter.</simpara>
+</section>
+<section xml:id="_lenvironnement">
+<title>L&#8217;environnement</title>
+<simpara>Un environnement porteur d&#8217;incertitude conduira les entreprises à
+adopter des structures formalisées alors qu&#8217;un environnement complexe
+permettra aux entreprises l&#8217;adoption de structures plus souples.</simpara>
+</section>
+<section xml:id="_lâge_de_lentreprise">
+<title>L&#8217;âge de l&#8217;entreprise</title>
+<simpara>Plus une organisation est âgée, plus son comportement est formalisé. Le
+travail est bien maîtrisé, et a tendance à être répété, ce qui favorise
+l&#8217;établissement de procédures.</simpara>
+</section>
+<section xml:id="_la_taille_de_lentreprise">
+<title>La taille de l&#8217;entreprise</title>
+<simpara>Plus une organisation est de grande taille, plus sa structure est
+élaborée et plus les tâches sont spécialisées et formalisées.</simpara>
+</section>
+<section xml:id="_le_système_technique">
+<title>Le système technique</title>
+<simpara>Dans un système de production à l&#8217;unité (petite structure), le travail
+n&#8217;est pas standardisé, formalisé. La communication se réalise par
+ajustement mutuel entre ouvrier et supérieur direct.</simpara>
+<simpara>Dans une grande entreprise, le comportement de l&#8217;homme est imposé par
+la machine, entraînant un travail répétitif, standardisé, formalisé et
+la coordination se fait par des procédures.</simpara>
+</section>
+<section xml:id="_la_culture">
+<title>La culture</title>
+<simpara>La culture sociétale a tendance à se reproduire dans une entreprise,
+donc centralisation et autocratie sont enracinées dans la programmation
+mentale de la population.</simpara>
+</section>
+<section xml:id="_le_pouvoir">
+<title>Le pouvoir</title>
+<simpara>Plus le contrôle extérieur est puissant (par exemple, actionnaire
+majoritaire), plus la structure de l&#8217;entreprise est formalisée et s
+tandardisée. Dans ce cas, le dirigeant exige des preuves écrites des
+actions, car il n&#8217;est responsable de ce qui arrive à l&#8217;entreprise. Le
+besoin de pouvoir de certains dirigeants pousse quelques fois à une
+centralisation extrême.</simpara>
+</section>
+</section>
+<section xml:id="_les_différentes_structures_organisationnelles">
+<title>Les différentes structures organisationnelles</title>
+<simpara>Il est possible de proposer quelques modèles comme résultat d&#8217;étude
+pour les différentes structures organisationnelles possibles, néanmoins,
+ces modèles restent une simplification de la réalité qui est plus
+complexe et présente plusieurs déviations.</simpara>
+<simpara>Il est ossible d&#8217;étudier les structures en se basant sur le principe de
+répartition des tâches. Ainsi, nous pouvons voir ces structures selon
+les deux dimensions :</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara><emphasis role="strong">Horizontale :</emphasis> répartition des tâches,</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Verticale :</emphasis> répartition du pouvoir (système d&#8217;autorité).</simpara>
+</listitem>
+</orderedlist>
+<section xml:id="_répartition_horizontale">
+<title>Répartition horizontale</title>
+<section xml:id="_structure_fonctionnelle">
+<title>Structure fonctionnelle</title>
+<figure>
+<title>Structure fonctionnelle</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Structure_Fonctionnelle.jpeg"/>
+</imageobject>
+<textobject><phrase>Structure Fonctionnelle</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Cette structure est, généralement, utilisée par les entreprises
+caractérisées par la répitition du travail et par la production
+d&#8217;un ou de peu de produits. Le mécanisme de coordination principal
+est la supervision directe où chaque employé ne reçoit ses ordres
+que d&#8217;un seul responsable hiérarchique.</simpara>
+<simpara>Avantages :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Adéquate pour un environnement stable,</simpara>
+</listitem>
+<listitem>
+<simpara>Exploitation optimale des ressources (application de la OST).</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inconvénients :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Centralisation (lourdeur, temps de réponse relativement lent),</simpara>
+</listitem>
+<listitem>
+<simpara>Régidité (incapacité de s&#8217;adapter).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_structure_divisionnelle">
+<title>Structure divisionnelle</title>
+<simpara>Cette structure a été appliquée pour la première fois par General Motors
+pendant les années 20. La répartition des tâches se base sur les
+produits ou sur les marchés (les zones). Le mécanisme de coordination
+principal est la standardisation des procédés ou bien la standardisation
+des résultats.</simpara>
+<simpara>Une structure en divisions selon les produits peut être présentée ainsi :</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Structure_Divisionnelle_Produit.jpeg"/>
+</imageobject>
+<textobject><phrase>Structure Divisionnelle Produit</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Une structure diviosnnelle selon les zones peut être représentée comme suit :</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Structure_Divisionnelle_Zone.jpeg"/>
+</imageobject>
+<textobject><phrase>Structure Divisionnelle Zone</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara>Avanatges :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Capacité et possibilité de réagir (temps de réponse plus rapide),</simpara>
+</listitem>
+<listitem>
+<simpara>Divers points de contrôle (décentralisation),</simpara>
+</listitem>
+<listitem>
+<simpara>Apparition et détection des compétences en terme de planification
+stratégique.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inconvénients :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Complexité de gestion des ressources (augmentation des échanges entre
+les différentes divisions).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_structure_matricielle">
+<title>Structure matricielle</title>
+<simpara>Dans cette structure, deux dimensions sont prises en considération : la
+dimension fonctionelle (les ressources) et la dimension opérationelle
+(ou divisionnelle). Cette structure contredit l&#8217;unité de commandement
+en mettant chaque employé sous la résponsabilité de deux chefs (un chef
+fonctionnel et autre opérationnel). Le mécanisme d&#8217;ajustement mutuel
+peut, à nouveau, être utilisé malgré la taille de l&#8217;entreprise.</simpara>
+<simpara>Avantages :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Décentralisation,</simpara>
+</listitem>
+<listitem>
+<simpara>Voies de communication plus courtes,</simpara>
+</listitem>
+<listitem>
+<simpara>Augmentation de la flexibilité,</simpara>
+</listitem>
+<listitem>
+<simpara>Possibilité et capacité de réagir,</simpara>
+</listitem>
+<listitem>
+<simpara>La compétence prime sur les privilèges hiérarchiques.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inconvénients :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Désorganisation vs. Création de superstructure pour gérer les ressources,</simpara>
+</listitem>
+<listitem>
+<simpara>Risque des conflits de responsabilité,</simpara>
+</listitem>
+<listitem>
+<simpara>Côut elevé.</simpara>
+</listitem>
+</itemizedlist>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Structure_Matricielle.jpeg"/>
+</imageobject>
+<textobject><phrase>Structure Matricielle</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+</section>
+<section xml:id="_répartition_verticale">
+<title>Répartition verticale</title>
+<simpara>La répartition verticale est complémentaire à la répartition horizontale
+vu l&#8217;importance des actions de contrôle au sein de l&#8217;entreprise. Les
+questions à lesquelles répond cette répartition sont : qui contrôle? Et
+comment contrôle-t-il?</simpara>
+<section xml:id="_line_fayol">
+<title>Line (Fayol)</title>
+<figure>
+<title>Line</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Line.jpeg"/>
+</imageobject>
+<textobject><phrase>Line</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Principe :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>L&#8217;unité de commandement.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Avantages :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Descipline,</simpara>
+</listitem>
+<listitem>
+<simpara>Définition claire de la chaîne de responsabilité.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inconvénients :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Mauvaise circulation de l&#8217;information,</simpara>
+</listitem>
+<listitem>
+<simpara>Pression et surcharge des responsables.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_staff_taylor">
+<title>Staff (Taylor)</title>
+<figure>
+<title>Staff</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Staff.jpeg"/>
+</imageobject>
+<textobject><phrase>Staff</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Principe :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>L&#8217;autorité doit être attribuée aux spécialistes,</simpara>
+</listitem>
+<listitem>
+<simpara>L&#8217;unité de commandement n&#8217;est pas respectée.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Avantages :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Compétence des membres de la chaîne de responsabilité.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inconvénients :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Conflit des responsabilités.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_staffe_line">
+<title>Staffe &amp; Line</title>
+<figure>
+<title>Staff &amp; Line</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./StaffAndLine.jpeg"/>
+</imageobject>
+<textobject><phrase>StaffAndLine</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Cette structure tente de reprendre les avantages des deux approches
+précédentes mais sans prendre les inconvénients. Cette structure permet
+aux spécialistes d&#8217;intervenir mais sans changer ou être en conflit avec
+la chaîne de responsabilité en Line.</simpara>
+</section>
+</section>
+</section>
+</section>
+<section xml:id="_mécanismes_de_coordination">
+<title>Mécanismes de coordination</title>
+<section xml:id="_dans_ce_chapitre_3">
+<title>Dans ce chapitre</title>
+<simpara>La répartition des tâches est la première partie dans l&#8217;activité
+d&#8217;organisation. La deuxième partie qui accomplit la répartition est
+la coordination entre ces tâches. Dans ce chapitre, nous allons
+présenter les cinq mécanismes de coordination définis par Mintzberg.</simpara>
+</section>
+<section xml:id="_les_différents_mécanismes_de_coordination">
+<title>Les différents mécanismes de coordination</title>
+<section xml:id="_ajustement_mutuel">
+<title>Ajustement mutuel</title>
+<simpara>L&#8217;ajustement mutuel est la coordination du travail par simple
+communication informelle. Cette forme de coordination est, généralement
+utilisée par les petites et simples entreprises (le magasin du coin) et
+par les entreprises et organisations très complexes (la NASA).</simpara>
+</section>
+<section xml:id="_la_supervision_directe">
+<title>La supervision directe</title>
+<simpara>Le mécanisme de coordination par lequel une personne se trouve investie
+de la responsabilité du travail des autres.</simpara>
+</section>
+<section xml:id="_la_standardisation_du_travail">
+<title>La standardisation du travail</title>
+<simpara>La coordination des diverses parties est incorporée dans le programme
+(les règles, les lois, etc.) dès la conception et la création de
+l&#8217;entreprise et le besoin de la communication continu s&#8217;en trouve
+réduit.</simpara>
+<simpara>Dans cette catégorie, nous avons trois possibilités de standardisation :</simpara>
+<section xml:id="_standardisation_des_procédés">
+<title>Standardisation des procédés</title>
+<simpara>Le contenu du travail est spécifié ou programmé par des spécialistes
+(exemple : fabrication du pâtisserie).</simpara>
+</section>
+<section xml:id="_standardisation_des_qualifications">
+<title>Standardisation des qualifications</title>
+<simpara>Le travail est coordonné par la spécification de la formation et des
+qualités requises dans celui qui va exécuter le travail (exemple : poste
+de chirurgien).</simpara>
+</section>
+<section xml:id="_standardisation_des_résultats">
+<title>Standardisation des résultats</title>
+<simpara>Le travail est coordonné par la spécification, à l&#8217;avance, des
+dimensions du produit ou de la performance à atteindre (exemple : le
+taxieur vise une recette journalière mais sans spécifier le chemin à
+suivre ou la façon de conduire).</simpara>
+</section>
+</section>
+</section>
+<section xml:id="_evolution_de_lentreprise">
+<title>Evolution de l&#8217;entreprise</title>
+<simpara>Selon Mintzberg, il existe une continuité entre les différents
+mécanismes de coordination. Lorsque le travail accompli par l&#8217;entreprise
+devient de plus en plus complexe, le mécanisme utilisé passe de
+l&#8217;ajustement mutuel qui est généralement adopté pendant la création de
+l&#8217;entreprise à la supervision directe. Si l&#8217;évolution de l&#8217;entreprise
+continue, elle doit passer à l&#8217;utilisation d&#8217;un mécanisme de
+standardisation. Si l&#8217;entreprise continue vers un niveau très complexe,
+elle se voit obligée de revenir vers l&#8217;ajustement mutuel.</simpara>
+<simpara>Mintzberg insiste sur le fait que chaque entreprise utilise les cinq
+mécanismes mais avec des degrées différents avec la présence d&#8217;un
+mécanisme dominant.</simpara>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./Mecanismes_De_Coordination.jpeg"/>
+</imageobject>
+<textobject><phrase>Mecanismes De Coordination</phrase></textobject>
+</mediaobject>
+</informalfigure>
+</section>
+</section>
+<section xml:id="_linformatique_dans_lentreprise">
+<title>L&#8217;informatique dans l&#8217;entreprise</title>
+<section xml:id="_dans_ce_chapitre_4">
+<title>Dans ce chapitre</title>
+<simpara>Nous allons essayer d&#8217;aborder l&#8217;intégration de l&#8217;outil informatique dans
+l&#8217;activité de l&#8217;entreprise (appelé souvent : l&#8217;informatisation de
+l&#8217;entreprise ou bien l&#8217;informatisation du système d&#8217;information).
+Nous allons voir les différents outils informatiques utilisés par
+l&#8217;entreprise avec les différents critères de choix à prendre en compte
+pendant l&#8217;acquisition de ces outils.</simpara>
+</section>
+<section xml:id="_position_de_linformatique">
+<title>Position de l&#8217;informatique</title>
+<figure>
+<title>Par Jean-Christophe BENOIST (Travail personnel) [CC BY 3.0 (<link xl:href="http://creativecommons.org/licenses/by/3.0">http://creativecommons.org/licenses/by/3.0</link>)], via Wikimedia Commons.</title>
+<mediaobject>
+<imageobject>
+<imagedata fileref="./mintzberg.jpg"/>
+</imageobject>
+<textobject><phrase>mintzberg</phrase></textobject>
+</mediaobject>
+</figure>
+<simpara>Mintzberg relève les acteurs fondamentaux suivants entre lesquels se
+répartit le pouvoir dans les organisations.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Le centre opérationnel constitué par les travailleurs, qui réalisent
+l’activité de production des biens ou services proposés par
+l’organisation. Si ces travailleurs sont faiblement qualifiés on parle
+d’opérateurs, si leur degré de qualification est élevé on parlera plutôt
+de professionnels.</simpara>
+</listitem>
+<listitem>
+<simpara>Le sommet stratégique, composé par la direction et ses adjoints
+directs. C’est là que se prennent généralement les décisions
+stratégiques pour l’organisation.</simpara>
+</listitem>
+<listitem>
+<simpara>La ligne hiérarchique intégrant les cadres intermédiaires. Elle
+représente une hiérarchie d’autorité entre le centre opérationnel et le
+sommet stratégique.</simpara>
+</listitem>
+<listitem>
+<simpara>Les analystes de la technostructure représentant ceux qui sont chargés
+de la standardisation du travail : recrutement, formation du personnel,
+règlements, programmes de travail, etc.</simpara>
+</listitem>
+<listitem>
+<simpara>Le personnel de soutien logistique, ceux qui aident les opérateurs :
+nettoyage, restauration, service juridique.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>L&#8217;informatique prend, ainsi, sa position dans la technostructure de
+l&#8217;entreprise.</simpara>
+</section>
+<section xml:id="_avantages">
+<title>Avantages</title>
+<itemizedlist>
+<listitem>
+<simpara>La capacité de stockage et de traitement considérablement accrûe,</simpara>
+</listitem>
+<listitem>
+<simpara>Accélération et simplification des tâches et traitements répétitifs
+gain du temps),</simpara>
+</listitem>
+<listitem>
+<simpara>Nouvelles possibilités de traitement de l&#8217;information (simulation,
+analyse statistique, etc.)</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_critères_de_choix">
+<title>Critères de choix</title>
+<itemizedlist>
+<listitem>
+<simpara>Capacité et rapidité des matériels,</simpara>
+</listitem>
+<listitem>
+<simpara>Connexion en réseaux (système et infrastructure),</simpara>
+</listitem>
+<listitem>
+<simpara>Système d&#8217;exploitation utilisé,</simpara>
+</listitem>
+<listitem>
+<simpara>Progiciels disponibles sur le marché,</simpara>
+</listitem>
+<listitem>
+<simpara>Coût d&#8217;acquisition et de maintenance,</simpara>
+</listitem>
+<listitem>
+<simpara>Question de sécurité (contre les pannes et contre les attaques).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_les_étapes_de_linformatisation">
+<title>Les étapes de l&#8217;informatisation</title>
+<section xml:id="_acuquisition_du_système">
+<title>Acuquisition du système</title>
+<simpara>Cette étape commence par l&#8217;expression d&#8217;un besoin par un ensemble des
+utilisateurs (employés) de l&#8217;entreprise. Sur ce fait, une étude des
+besoins doit être menée ainsi qu&#8217;une recherche de documentation auprès
+des éditeurs de logiciels ou de leurs distributeurs. L&#8217;objectif est de
+pouvoir choisir le meilleur logiciel pour satisfaire le besoin exprimé.</simpara>
+<simpara>L&#8217;entreprise peut, dans la plupart des cas, ne pas trouver un logiciel
+adéquat. Elle aura le choix de commander un système qui sera construit
+à zéro ou bien d&#8217;acheter un progiciel (ERP) adaptable et de l&#8217;adapter
+selon son besoin.</simpara>
+</section>
+<section xml:id="_exploitation">
+<title>Exploitation</title>
+<simpara>Elle est constituée par la rédaction de consignes d&#8217;exploitation
+destinées aux utilisateurs puis par l&#8217;organisation d&#8217;une formation des
+utilisateurs. Elle se termine par la mise du système en exploiatation.</simpara>
+</section>
+</section>
+<section xml:id="_lorganisation_informatique">
+<title>L&#8217;organisation informatique</title>
+<simpara>C&#8217;est le degré de centralisation du pouvoir de décision qui détermine la
+forme de traitement informatique retenu.</simpara>
+<section xml:id="_le_système_centralisé">
+<title>Le système centralisé</title>
+<simpara>Un système centralisé est mis en place lorsque l&#8217;ensemble des
+applications est effectué par un ordinateur central (serveur) géré par
+le service informatique de l&#8217;entreprise et que les utilisateurs n&#8217;ont
+pas un accès direct au matériel et qu&#8217;ils doivent demander aux employés
+du service informatique de lancer tel ou tel traitement.</simpara>
+</section>
+<section xml:id="_le_système_distribué">
+<title>Le système distribué</title>
+<simpara>Cette solution associe un ordinateur central (serveur) à des terminaux
+(clients) disponibles dans les différents services. L&#8217;accès est, ainsi,
+décentralisé et les employés peuvent lancer les traitements et accéder
+aux données du système.</simpara>
+</section>
+<section xml:id="_linformatique_personnelle">
+<title>L&#8217;informatique personnelle</title>
+<simpara>Cette solution dote chaque poste de travail de matériel informatique
+autonome.</simpara>
+</section>
+</section>
+<section xml:id="_les_domaines_dpplication_de_linformatique_dans_lentreprise">
+<title>Les domaines d&#8217;pplication de l&#8217;informatique dans l&#8217;entreprise</title>
+<section xml:id="_linformatique_de_gestion">
+<title>L&#8217;informatique de gestion</title>
+<simpara>Elle recouvre l&#8217;exploitation informatique des données et l&#8217;utilisation
+des résultats pour les décisions opérationnelles, tactiques et
+stratégiques. On peut parler des systèmes d&#8217;information pour la
+gestion (SIG).</simpara>
+</section>
+<section xml:id="_linformatique_opérationnelle">
+<title>L&#8217;informatique opérationnelle</title>
+<simpara>Les systèmes de ce niveau garantissent la réalisation des tâches et des
+opérations physiques ou administratives de l&#8217;entreprise (facturation,
+paie, comptabilité, etc.)</simpara>
+</section>
+<section xml:id="_linformatique_de_reportage">
+<title>l&#8217;informatique de reportage</title>
+<simpara>Les traitements fournissent des rapports sur l&#8217;activité er le
+fonctionnement des différents systèmes opérants.</simpara>
+</section>
+<section xml:id="_linformatique_décisionnelle">
+<title>L&#8217;informatique décisionnelle</title>
+<simpara>A ce niveau, l&#8217;outil informatique peut fournir un ensemble des
+techniques et des modèles d&#8217;aide à la décision pour faciliter le travail
+d&#8217;analyse des décideurs.</simpara>
+<simpara>Les outils sont très variés et reposent sur des technologies différentes
+(tableaux de bord, SIAD, etc.) et s&#8217;appliquent aux différents domaines
+de gestion dans l&#8217;entreprise.</simpara>
+</section>
+<section xml:id="_la_bureautique">
+<title>La bureautique</title>
+<simpara>Elle désigne l&#8217;ensemble des équipements électroniques de bureaux. Elle
+donne de plus en plus de place à la micro-informatique pour réaliser les
+opérations administratives traditionnelles (traitement de texte, tableur,
+impression, scan, etc.).</simpara>
+</section>
+<section xml:id="_assistance">
+<title>Assistance</title>
+<simpara>On désigne par l&#8217;assistance les différentes applications informatiques
+qui assistent les concepteurs pendant le processus de la production
+industrielle :</simpara>
+<itemizedlist>
+<listitem>
+<simpara>CAO (Conception Assistée par Ordinateur),</simpara>
+</listitem>
+<listitem>
+<simpara>PAO (Planification Assistée par Ordinateur).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</section>
+<bibliography xml:id="_références">
+<title>Références</title>
+<bibliodiv>
+<bibliomixed>
+<bibliomisc>AFNOR: Les différents courants de pensée de la théorie des organisations. AFNOR, 2016.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Boukraa, D.: Cours Gestion et Organisation des Entreprises. Université de Jijel, 2013.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Ghomari, A. R.: Cours Organisations et Gestion des Entreprises. Ecole nationale Supérieure d&#8217;Informatique, 2006.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Grootaers, D.: Les apports de Henri Mintzberg. Le GRAIN asbl, 2005.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Kervella, G.: Fiche de lecture : Henri Mintzberg, Structure et dynamique des organisations. Conservatoire National des Arts et Métiers. Paris, 2014.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Lasary: Théorie des organisations. Dar El Othmania. Alger, 2007.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Makhlouf, F.: L&#8217;Entreprise : structure, fonctions et organisation. Editions Pages Bleues. Alger, 2012.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Makhlouf, F: L&#8217;entreprise : Organisation et Gestion. Editions Pages Bleues, 2006.</bibliomisc>
+</bibliomixed>
+<bibliomixed>
+<bibliomisc>Tizio, A.: Synthèse : Henri Mintzberg, Structure et dynamique des organisations. Contrôle de Gestion, 1999.</bibliomisc>
+</bibliomixed>
+</bibliodiv>
+</bibliography>
+</article>
