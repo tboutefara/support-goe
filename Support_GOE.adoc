@@ -146,6 +146,7 @@ vers le produit (stratégie "pull").
 L'approche sociale de définition d'une entreprise met l'accent sur les 
 acteurs intervenant dans l'entreprise (vue selon l'approche économique). 
 On distingue :
+
 ==== Les apporteurs de capitaux (actionnaires) : 
 
 Personnes qui contribuent 
